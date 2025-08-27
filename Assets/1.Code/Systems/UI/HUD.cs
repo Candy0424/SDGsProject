@@ -8,7 +8,7 @@ namespace _1.Code.Systems.UI
 {
     public abstract class HUD : MonoBehaviour
     {
-        [SerializeField] private UiHuDs hudAttribute;
+        [SerializeField] protected HUDTypes hudAttribute;
         [SerializeField] private float maxValue;
         [SerializeField] private float minValue;
         [SerializeField] protected float valueMultiplier;

@@ -3,11 +3,12 @@
 namespace _1.Code.Defines
 {
     [Flags]
-    public enum UiHuDs
-    {
-        Co2S,
-        Forest,
-        IceProtection,
-        OceanHealth,
+    public enum HUDTypes
+    { 
+        None = 0,
+        Co2 = 1, 
+        Forest = 2, 
+        IceProtection = 4, 
+        OceanHealth = 8,
     }
 }
