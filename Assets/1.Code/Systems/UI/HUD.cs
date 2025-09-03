@@ -38,6 +38,11 @@ namespace _1.Code.Systems.UI
             }
         }
 
+        private void Awake()
+        {
+            Initialize();
+        }
+
         protected virtual void Start()
         {
             // 나중에 필요하면 써야디
@@ -70,7 +75,7 @@ namespace _1.Code.Systems.UI
         }
         
         protected abstract void HandleZeroEvent();
-        
+            
         public void TurnInit()
         {
             float value = (Random.Range(minMinusValue, maxMinusValue)) * valueMultiplier;
