@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: 4494a8dc272951c419370f276a2bd93b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -783777367241307893
+    second: Thawing_02-512x512_0
+  - first:
+      213: -4954551225564170359
+    second: Thawing_02-512x512_1
+  - first:
+      213: -5223060432087739440
+    second: Thawing_02-512x512_2
+  - first:
+      213: -907540876733611535
+    second: Thawing_02-512x512_3
+  - first:
+      213: 3863735868654395132
+    second: Thawing_02-512x512_4
+  - first:
+      213: 8551808722616694083
+    second: Thawing_02-512x512_5
+  - first:
+      213: -5688254431449023863
+    second: Thawing_02-512x512_6
+  - first:
+      213: -8523150603105985320
+    second: Thawing_02-512x512_7
+  - first:
+      213: 425508464977322226
+    second: Thawing_02-512x512_8
+  - first:
+      213: -1997487847713424713
+    second: Thawing_02-512x512_9
+  - first:
+      213: 4969421467906016756
+    second: Thawing_02-512x512_10
+  - first:
+      213: 8923799869132586290
+    second: Thawing_02-512x512_11
+  - first:
+      213: 717103704276857957
+    second: Thawing_02-512x512_12
+  - first:
+      213: 5815086903452056963
+    second: Thawing_02-512x512_13
+  - first:
+      213: 8802636509643386894
+    second: Thawing_02-512x512_14
+  - first:
+      213: -8106769245027188870
+    second: Thawing_02-512x512_15
+  - first:
+      213: -84480578819352163
+    second: Thawing_02-512x512_16
+  - first:
+      213: -2125366284288687356
+    second: Thawing_02-512x512_17
+  - first:
+      213: 1436562980081001641
+    second: Thawing_02-512x512_18
+  - first:
+      213: -794201479051567454
+    second: Thawing_02-512x512_19
+  - first:
+      213: -8020248871537537758
+    second: Thawing_02-512x512_20
+  - first:
+      213: -6456660126835837244
+    second: Thawing_02-512x512_21
+  - first:
+      213: -1387303214231007930
+    second: Thawing_02-512x512_22
+  - first:
+      213: 6701811747915404010
+    second: Thawing_02-512x512_23
+  - first:
+      213: 4781904421611918713
+    second: Thawing_02-512x512_24
+  - first:
+      213: -1110218597720763493
+    second: Thawing_02-512x512_25
+  - first:
+      213: 5392668525184414188
+    second: Thawing_02-512x512_26
+  - first:
+      213: 7458157929256130364
+    second: Thawing_02-512x512_27
+  - first:
+      213: -521625481219106429
+    second: Thawing_02-512x512_28
+  - first:
+      213: 5405982674757982903
+    second: Thawing_02-512x512_29
+  - first:
+      213: -3900992612944300196
+    second: Thawing_02-512x512_30
+  - first:
+      213: 8525996971456433618
+    second: Thawing_02-512x512_31
+  - first:
+      213: -6809471405584074056
+    second: Thawing_02-512x512_32
+  - first:
+      213: 5559947590653829786
+    second: Thawing_02-512x512_33
+  - first:
+      213: 2247449256744968723
+    second: Thawing_02-512x512_34
+  - first:
+      213: -1767241140650802995
+    second: Thawing_02-512x512_35
+  - first:
+      213: -3637832557095152210
+    second: Thawing_02-512x512_36
+  - first:
+      213: -7165073212875835757
+    second: Thawing_02-512x512_37
+  - first:
+      213: 4761565137327254202
+    second: Thawing_02-512x512_38
+  - first:
+      213: 6093386552687681202
+    second: Thawing_02-512x512_39
+  - first:
+      213: 1520191646197669271
+    second: Thawing_02-512x512_40
+  - first:
+      213: -8316400657322298289
+    second: Thawing_02-512x512_41
+  - first:
+      213: -4736481258935930962
+    second: Thawing_02-512x512_42
+  - first:
+      213: 3705626842256227106
+    second: Thawing_02-512x512_43
+  - first:
+      213: 7100120349135957050
+    second: Thawing_02-512x512_44
+  - first:
+      213: -5090092407643855869
+    second: Thawing_02-512x512_45
+  - first:
+      213: -4798518903808732025
+    second: Thawing_02-512x512_46
+  - first:
+      213: 2811800015530701251
+    second: Thawing_02-512x512_47
+  - first:
+      213: -4251386774382098468
+    second: Thawing_02-512x512_48
+  - first:
+      213: 1399608489665604903
+    second: Thawing_02-512x512_49
+  - first:
+      213: -1932101420600139110
+    second: Thawing_02-512x512_50
+  - first:
+      213: 8126660241242669523
+    second: Thawing_02-512x512_51
+  - first:
+      213: -89515815801177102
+    second: Thawing_02-512x512_52
+  - first:
+      213: -1162192228558878503
+    second: Thawing_02-512x512_53
+  - first:
+      213: 6254483718236049625
+    second: Thawing_02-512x512_54
+  - first:
+      213: -6701331053157692028
+    second: Thawing_02-512x512_55
+  - first:
+      213: 813753658321612648
+    second: Thawing_02-512x512_56
+  - first:
+      213: 6239985795896087889
+    second: Thawing_02-512x512_57
+  - first:
+      213: 1688637682338805613
+    second: Thawing_02-512x512_58
+  - first:
+      213: 8786564632456341318
+    second: Thawing_02-512x512_59
+  - first:
+      213: 2856449844236350792
+    second: Thawing_02-512x512_60
+  - first:
+      213: 9159368418192750314
+    second: Thawing_02-512x512_61
+  - first:
+      213: -1668872947206403387
+    second: Thawing_02-512x512_62
+  - first:
+      213: -9024190690225453280
+    second: Thawing_02-512x512_63
+  - first:
+      213: -4179574221174216747
+    second: Thawing_02-512x512_64
+  - first:
+      213: -7849234330228259418
+    second: Thawing_02-512x512_65
+  - first:
+      213: -6098875126136396369
+    second: Thawing_02-512x512_66
+  - first:
+      213: -8618796604825015098
+    second: Thawing_02-512x512_67
+  - first:
+      213: -1651546015073768224
+    second: Thawing_02-512x512_68
+  - first:
+      213: 6274884899655484299
+    second: Thawing_02-512x512_69
+  - first:
+      213: 7837528667629927519
+    second: Thawing_02-512x512_70
+  - first:
+      213: 5032933775257230380
+    second: Thawing_02-512x512_71
+  - first:
+      213: 5110345610618966882
+    second: Thawing_02-512x512_72
+  - first:
+      213: -6741954358636776173
+    second: Thawing_02-512x512_73
+  - first:
+      213: -5649019998974928207
+    second: Thawing_02-512x512_74
+  - first:
+      213: -5222246855089999906
+    second: Thawing_02-512x512_75
+  - first:
+      213: 7002581143664847360
+    second: Thawing_02-512x512_76
+  - first:
+      213: 1043569266813007016
+    second: Thawing_02-512x512_77
+  - first:
+      213: 7415840674286589180
+    second: Thawing_02-512x512_78
+  - first:
+      213: -6692296838790184081
+    second: Thawing_02-512x512_79
+  - first:
+      213: -7995326542743917940
+    second: Thawing_02-512x512_80
+  - first:
+      213: -1253636523949603833
+    second: Thawing_02-512x512_81
+  - first:
+      213: -7179579300781236430
+    second: Thawing_02-512x512_82
+  - first:
+      213: -1761348520824635383
+    second: Thawing_02-512x512_83
+  - first:
+      213: -162329709213070614
+    second: Thawing_02-512x512_84
+  - first:
+      213: -4467767479526504737
+    second: Thawing_02-512x512_85
+  - first:
+      213: 7786419530648365218
+    second: Thawing_02-512x512_86
+  - first:
+      213: 599270470254222725
+    second: Thawing_02-512x512_87
+  - first:
+      213: 5876003717475070307
+    second: Thawing_02-512x512_88
+  - first:
+      213: 3152909515067491822
+    second: Thawing_02-512x512_89
+  - first:
+      213: 943043924560994393
+    second: Thawing_02-512x512_90
+  - first:
+      213: -6100266050984142267
+    second: Thawing_02-512x512_91
+  - first:
+      213: 2847403121201381959
+    second: Thawing_02-512x512_92
+  - first:
+      213: 4185315983678773389
+    second: Thawing_02-512x512_93
+  - first:
+      213: 523291891152118566
+    second: Thawing_02-512x512_94
+  - first:
+      213: -8024785709085514195
+    second: Thawing_02-512x512_95
+  - first:
+      213: -6989780345487955056
+    second: Thawing_02-512x512_96
+  - first:
+      213: 7667035954518816019
+    second: Thawing_02-512x512_97
+  - first:
+      213: 5982932309863550088
+    second: Thawing_02-512x512_98
+  - first:
+      213: 157959006527257932
+    second: Thawing_02-512x512_99
+  - first:
+      213: -3707749945978381518
+    second: Thawing_02-512x512_100
+  - first:
+      213: -2209429695521298177
+    second: Thawing_02-512x512_101
+  - first:
+      213: 8513712368028559100
+    second: Thawing_02-512x512_102
+  - first:
+      213: 5673583266446977606
+    second: Thawing_02-512x512_103
+  - first:
+      213: 1730239414112221079
+    second: Thawing_02-512x512_104
+  - first:
+      213: 9128500885946314741
+    second: Thawing_02-512x512_105
+  - first:
+      213: 8849825267875734623
+    second: Thawing_02-512x512_106
+  - first:
+      213: 1033138187513939533
+    second: Thawing_02-512x512_107
+  - first:
+      213: 1483507376993735070
+    second: Thawing_02-512x512_108
+  - first:
+      213: -981261355915859983
+    second: Thawing_02-512x512_109
+  - first:
+      213: -4720836663449277853
+    second: Thawing_02-512x512_110
+  - first:
+      213: -8240822072008356951
+    second: Thawing_02-512x512_111
+  - first:
+      213: 3923593957146349967
+    second: Thawing_02-512x512_112
+  - first:
+      213: 6884927904690332213
+    second: Thawing_02-512x512_113
+  - first:
+      213: -6853487379613777775
+    second: Thawing_02-512x512_114
+  - first:
+      213: -1969015735162263991
+    second: Thawing_02-512x512_115
+  - first:
+      213: -1888616946282057170
+    second: Thawing_02-512x512_116
+  - first:
+      213: -2322235450420710190
+    second: Thawing_02-512x512_117
+  - first:
+      213: 6581840886950861353
+    second: Thawing_02-512x512_118
+  - first:
+      213: -1876252010807681068
+    second: Thawing_02-512x512_119
+  - first:
+      213: 7591360898758434794
+    second: Thawing_02-512x512_120
+  - first:
+      213: 7413155234827520999
+    second: Thawing_02-512x512_121
+  - first:
+      213: 2819071467595184059
+    second: Thawing_02-512x512_122
+  - first:
+      213: -4506480523204801663
+    second: Thawing_02-512x512_123
+  - first:
+      213: -6306418053130226404
+    second: Thawing_02-512x512_124
+  - first:
+      213: 1158540413352064149
+    second: Thawing_02-512x512_125
+  - first:
+      213: -3581687154219310081
+    second: Thawing_02-512x512_126
+  - first:
+      213: 7998285301079269580
+    second: Thawing_02-512x512_127
+  - first:
+      213: 6348615208689093560
+    second: Thawing_02-512x512_128
+  - first:
+      213: -5999036554059262303
+    second: Thawing_02-512x512_129
+  - first:
+      213: 4489031982041169382
+    second: Thawing_02-512x512_130
+  - first:
+      213: -294616016795951341
+    second: Thawing_02-512x512_131
+  - first:
+      213: -6148888041032423172
+    second: Thawing_02-512x512_132
+  - first:
+      213: 6720088412365765658
+    second: Thawing_02-512x512_133
+  - first:
+      213: 2767629094552587140
+    second: Thawing_02-512x512_134
+  - first:
+      213: -7143068920883478745
+    second: Thawing_02-512x512_135
+  - first:
+      213: 7011743334249913224
+    second: Thawing_02-512x512_136
+  - first:
+      213: -4596966588337780487
+    second: Thawing_02-512x512_137
+  - first:
+      213: 5954469647046707157
+    second: Thawing_02-512x512_138
+  - first:
+      213: -7213429069738380285
+    second: Thawing_02-512x512_139
+  - first:
+      213: -8537488745940190902
+    second: Thawing_02-512x512_140
+  - first:
+      213: -3309029500414280696
+    second: Thawing_02-512x512_141
+  - first:
+      213: -183165115691888293
+    second: Thawing_02-512x512_142
+  - first:
+      213: -150789842165337002
+    second: Thawing_02-512x512_143
+  - first:
+      213: 5341389834573591242
+    second: Thawing_02-512x512_144
+  - first:
+      213: -3210058439244784439
+    second: Thawing_02-512x512_145
+  - first:
+      213: 1202880243551322784
+    second: Thawing_02-512x512_146
+  - first:
+      213: -8118102949980233472
+    second: Thawing_02-512x512_147
+  - first:
+      213: 5363105314496263438
+    second: Thawing_02-512x512_148
+  - first:
+      213: -3067932967577017242
+    second: Thawing_02-512x512_149
+  - first:
+      213: -5867100130600108667
+    second: Thawing_02-512x512_150
+  - first:
+      213: 5195247606141611096
+    second: Thawing_02-512x512_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thawing_02-512x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09479a13a67f15f0800000000000000
+      internalID: -783777367241307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98775c229e5ed3bb0800000000000000
+      internalID: -4954551225564170359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d31301c536f387b0800000000000000
+      internalID: -5223060432087739440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f185278164c763f0800000000000000
+      internalID: -907540876733611535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe94153d4fbe9530800000000000000
+      internalID: 3863735868654395132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b7aa49b02ea670800000000000000
+      internalID: 8551808722616694083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a70757bb24f01b0800000000000000
+      internalID: -5688254431449023863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc16be1fafa7b980800000000000000
+      internalID: -8523150603105985320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f025e7c1b5b7e500800000000000000
+      internalID: 425508464977322226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab1e9b26f7744e0800000000000000
+      internalID: -1997487847713424713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50db5fe7ee6f440800000000000000
+      internalID: 4969421467906016756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d335e53b4b7db70800000000000000
+      internalID: 8923799869132586290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564f988050aa3f900800000000000000
+      internalID: 717103704276857957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d3942aab653b050800000000000000
+      internalID: 5815086903452056963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00bd24644f392a70800000000000000
+      internalID: 8802636509643386894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb71ab258fe7f80800000000000000
+      internalID: -8106769245027188870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999d057c5dd3def0800000000000000
+      internalID: -84480578819352163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403816700ae2182e0800000000000000
+      internalID: -2125366284288687356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4643d4b62bfe310800000000000000
+      internalID: 1436562980081001641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9a0176fd6af4f0800000000000000
+      internalID: -794201479051567454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d07c9f42a52b090800000000000000
+      internalID: -8020248871537537758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67580d2d55566a0800000000000000
+      internalID: -6456660126835837244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc000b31f4fbce0800000000000000
+      internalID: -1387303214231007930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2990ae64e910d50800000000000000
+      internalID: 6701811747915404010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9755c006cbcbc5240800000000000000
+      internalID: 4781904421611918713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9352db4116b790f0800000000000000
+      internalID: -1110218597720763493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 484
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1fb0bb37b96da40800000000000000
+      internalID: 5392668525184414188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3713142f13b08760800000000000000
+      internalID: 7458157929256130364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38994267360d2c8f0800000000000000
+      internalID: -521625481219106429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 476
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9ddeb998e50b40800000000000000
+      internalID: 5405982674757982903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57380a03e3ecd9c0800000000000000
+      internalID: -3900992612944300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd87b7a21d625670800000000000000
+      internalID: 8525996971456433618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 451
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3bf1b5d5ef71a0800000000000000
+      internalID: -6809471405584074056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92e5b630e6e82d40800000000000000
+      internalID: 5559947590653829786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312eff6013b803f10800000000000000
+      internalID: 2247449256744968723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08d0bbb8f7977e0800000000000000
+      internalID: -1767241140650802995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51ef93092d38dc0800000000000000
+      internalID: -3637832557095152210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3967ed400eb809c90800000000000000
+      internalID: -7165073212875835757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6649b34a741240800000000000000
+      internalID: 4761565137327254202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be571819ce009450800000000000000
+      internalID: 6093386552687681202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd0267f3ec81510800000000000000
+      internalID: 1520191646197669271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ba721aa5369c80800000000000000
+      internalID: -8316400657322298289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf24d3d363a44eb0800000000000000
+      internalID: -4736481258935930962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb5d2daf70d6330800000000000000
+      internalID: 3705626842256227106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c65c8e6d1b88260800000000000000
+      internalID: 7100120349135957050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a9787ceb5c59b0800000000000000
+      internalID: -5090092407643855869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784db7a0b7c386db0800000000000000
+      internalID: -4798518903808732025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 375
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c135217735850720800000000000000
+      internalID: 2811800015530701251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd74926e04a0005c0800000000000000
+      internalID: -4251386774382098468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da32381886c6310800000000000000
+      internalID: 1399608489665604903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92e913aefbcf25e0800000000000000
+      internalID: -1932101420600139110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d14f89be62b7c070800000000000000
+      internalID: 8126660241242669523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb346df6d9f1cef0800000000000000
+      internalID: -89515815801177102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 338
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8470063501fdfe0800000000000000
+      internalID: -1162192228558878503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d09ce6ddc36cc650800000000000000
+      internalID: 6254483718236049625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dcd3e89e61003a0800000000000000
+      internalID: -6701331053157692028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2fea04a80b4b00800000000000000
+      internalID: 813753658321612648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1559edf3502e89650800000000000000
+      internalID: 6239985795896087889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b42a760f3f6710800000000000000
+      internalID: 1688637682338805613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472291eaf520f970800000000000000
+      internalID: 8786564632456341318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 280
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457d6ccff524a720800000000000000
+      internalID: 2856449844236350792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67f454c0d9c1f70800000000000000
+      internalID: 9159368418192750314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac08685e8f6d8e0800000000000000
+      internalID: -1668872947206403387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02789b32162a3c280800000000000000
+      internalID: -9024190690225453280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 264
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e782e36b2ff5c0800000000000000
+      internalID: -4179574221174216747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a581f3b6fae11390800000000000000
+      internalID: -7849234330228259418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ac21d2617c5ba0800000000000000
+      internalID: -6098875126136396369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccef0af622e36880800000000000000
+      internalID: -8618796604825015098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece05946a78419e0800000000000000
+      internalID: -1651546015073768224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838d6a029ed41750800000000000000
+      internalID: 6274884899655484299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb5075cce74cc60800000000000000
+      internalID: 7837528667629927519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd54c5a9298d540800000000000000
+      internalID: 5032933775257230380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639b60d1489be640800000000000000
+      internalID: 5110345610618966882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fe813b34cf62a0800000000000000
+      internalID: -6741954358636776173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba9500ad36aa91b0800000000000000
+      internalID: -5649019998974928207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 214
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfa5f8672ad687b0800000000000000
+      internalID: -5222246855089999906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 195
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aedfae27a2e2160800000000000000
+      internalID: 7002581143664847360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a477e618b08b7e00800000000000000
+      internalID: 1043569266813007016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4debd6dcb5ae660800000000000000
+      internalID: 7415840674286589180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6301708b7f2023a0800000000000000
+      internalID: -6692296838790184081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a2f74ded4ea0190800000000000000
+      internalID: -7995326542743917940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704478839303a9ee0800000000000000
+      internalID: -1253636523949603833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fdf2c3aa20d5c90800000000000000
+      internalID: -7179579300781236430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_83
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 158
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90086923ade6e87e0800000000000000
+      internalID: -1761348520824635383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaccd15df94fbdf0800000000000000
+      internalID: -162329709213070614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c7cb062d4ff1c0800000000000000
+      internalID: -4467767479526504737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a5741f4bee0c60800000000000000
+      internalID: 7786419530648365218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d52ef4159015800800000000000000
+      internalID: 599270470254222725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f9f6af32cb8150800000000000000
+      internalID: 5876003717475070307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee50c86cf7261cb20800000000000000
+      internalID: 3152909515067491822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506c03f37d561d00800000000000000
+      internalID: 943043924560994393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a17b3e850875ba0800000000000000
+      internalID: -6100266050984142267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420c837d02048720800000000000000
+      internalID: 2847403121201381959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8810ff56ba351a30800000000000000
+      internalID: 4185315983678773389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e6f5d33b134700800000000000000
+      internalID: 523291891152118566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a35b2aeb32a090800000000000000
+      internalID: -8024785709085514195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bee292fcf4ffe90800000000000000
+      internalID: -6989780345487955056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_97
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fd353498c66a60800000000000000
+      internalID: 7667035954518816019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ccf94ac35a70350800000000000000
+      internalID: 5982932309863550088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d712921ee213200800000000000000
+      internalID: 157959006527257932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b1cf1911d6b8cc0800000000000000
+      internalID: -3707749945978381518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e042e5678651e0800000000000000
+      internalID: -2209429695521298177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf621388a48c62670800000000000000
+      internalID: 8513712368028559100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a2c20cbed9cbe40800000000000000
+      internalID: 5673583266446977606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797f986749b030810800000000000000
+      internalID: 1730239414112221079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2baed033feae70800000000000000
+      internalID: 9128500885946314741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5462085135e0da70800000000000000
+      internalID: 8849825267875734623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c8ae25b1765e00800000000000000
+      internalID: 1033138187513939533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911263791a769410800000000000000
+      internalID: 1483507376993735070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f721d8eefbd162f0800000000000000
+      internalID: -981261355915859983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a277011183c7eb0800000000000000
+      internalID: -4720836663449277853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4ebcbcf7b2ad80800000000000000
+      internalID: -8240822072008356951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_112
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d39a7ae7637630800000000000000
+      internalID: 3923593957146349967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ed3f837d2c8f50800000000000000
+      internalID: 6884927904690332213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908f712a8583e0a0800000000000000
+      internalID: -6853487379613777775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946af740f96aca4e0800000000000000
+      internalID: -1969015735162263991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223318c4e84ac5e0800000000000000
+      internalID: -1888616946282057170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4badc5923c5cfd0800000000000000
+      internalID: -2322235450420710190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a19d22a65675b50800000000000000
+      internalID: 6581840886950861353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_119
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df12baacb636f5e0800000000000000
+      internalID: -1876252010807681068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_120
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef5944448ee95960800000000000000
+      internalID: 7591360898758434794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc8b4d861d0e660800000000000000
+      internalID: 7413155234827520999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7337e409a5f1720800000000000000
+      internalID: 2819071467595184059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_123
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b492b27d3c571c0800000000000000
+      internalID: -4506480523204801663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ff0a813a1b78a0800000000000000
+      internalID: -6306418053130226404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b8c32e56f31010800000000000000
+      internalID: 1158540413352064149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ad24828a4b4ec0800000000000000
+      internalID: -3581687154219310081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ee07ca1e9ffe60800000000000000
+      internalID: 7998285301079269580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb4e8955efca1850800000000000000
+      internalID: 6348615208689093560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d6b0d9042fbca0800000000000000
+      internalID: -5999036554059262303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7ee2cdce3c4e30800000000000000
+      internalID: 4489031982041169382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9cbd2b4059ebf0800000000000000
+      internalID: -294616016795951341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86d96a7e2caaaa0800000000000000
+      internalID: -6148888041032423172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb7467ecc824d50800000000000000
+      internalID: 6720088412365765658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_134
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc7da7ff7986620800000000000000
+      internalID: 2767629094552587140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_135
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f7b9c79a8bedc90800000000000000
+      internalID: -7143068920883478745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_136
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdd26a967be4160800000000000000
+      internalID: 7011743334249913224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f889c16e3b4430c0800000000000000
+      internalID: -4596966588337780487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7801a889682a250800000000000000
+      internalID: 5954469647046707157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30474cdba70c4eb90800000000000000
+      internalID: -7213429069738380285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_140
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49f658183fb48980800000000000000
+      internalID: -8537488745940190902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb48c8337f312d0800000000000000
+      internalID: -3309029500414280696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_142
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5111f73c44457df0800000000000000
+      internalID: -183165115691888293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6547ffdff6948edf0800000000000000
+      internalID: -150789842165337002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_144
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac234a031cd602a40800000000000000
+      internalID: 5341389834573591242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_145
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd19c6bd49373d0800000000000000
+      internalID: -3210058439244784439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a24638553d71b010800000000000000
+      internalID: 1202880243551322784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a068e064b65f80800000000000000
+      internalID: -8118102949980233472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_148
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053f8b5ed39d6a40800000000000000
+      internalID: 5363105314496263438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664acd878338c65d0800000000000000
+      internalID: -3067932967577017242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dbee5348fd39ea0800000000000000
+      internalID: -5867100130600108667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thawing_02-512x512_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce4441c2a391840800000000000000
+      internalID: 5195247606141611096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thawing_02-512x512_0: -783777367241307893
+      Thawing_02-512x512_1: -4954551225564170359
+      Thawing_02-512x512_10: 4969421467906016756
+      Thawing_02-512x512_100: -3707749945978381518
+      Thawing_02-512x512_101: -2209429695521298177
+      Thawing_02-512x512_102: 8513712368028559100
+      Thawing_02-512x512_103: 5673583266446977606
+      Thawing_02-512x512_104: 1730239414112221079
+      Thawing_02-512x512_105: 9128500885946314741
+      Thawing_02-512x512_106: 8849825267875734623
+      Thawing_02-512x512_107: 1033138187513939533
+      Thawing_02-512x512_108: 1483507376993735070
+      Thawing_02-512x512_109: -981261355915859983
+      Thawing_02-512x512_11: 8923799869132586290
+      Thawing_02-512x512_110: -4720836663449277853
+      Thawing_02-512x512_111: -8240822072008356951
+      Thawing_02-512x512_112: 3923593957146349967
+      Thawing_02-512x512_113: 6884927904690332213
+      Thawing_02-512x512_114: -6853487379613777775
+      Thawing_02-512x512_115: -1969015735162263991
+      Thawing_02-512x512_116: -1888616946282057170
+      Thawing_02-512x512_117: -2322235450420710190
+      Thawing_02-512x512_118: 6581840886950861353
+      Thawing_02-512x512_119: -1876252010807681068
+      Thawing_02-512x512_12: 717103704276857957
+      Thawing_02-512x512_120: 7591360898758434794
+      Thawing_02-512x512_121: 7413155234827520999
+      Thawing_02-512x512_122: 2819071467595184059
+      Thawing_02-512x512_123: -4506480523204801663
+      Thawing_02-512x512_124: -6306418053130226404
+      Thawing_02-512x512_125: 1158540413352064149
+      Thawing_02-512x512_126: -3581687154219310081
+      Thawing_02-512x512_127: 7998285301079269580
+      Thawing_02-512x512_128: 6348615208689093560
+      Thawing_02-512x512_129: -5999036554059262303
+      Thawing_02-512x512_13: 5815086903452056963
+      Thawing_02-512x512_130: 4489031982041169382
+      Thawing_02-512x512_131: -294616016795951341
+      Thawing_02-512x512_132: -6148888041032423172
+      Thawing_02-512x512_133: 6720088412365765658
+      Thawing_02-512x512_134: 2767629094552587140
+      Thawing_02-512x512_135: -7143068920883478745
+      Thawing_02-512x512_136: 7011743334249913224
+      Thawing_02-512x512_137: -4596966588337780487
+      Thawing_02-512x512_138: 5954469647046707157
+      Thawing_02-512x512_139: -7213429069738380285
+      Thawing_02-512x512_14: 8802636509643386894
+      Thawing_02-512x512_140: -8537488745940190902
+      Thawing_02-512x512_141: -3309029500414280696
+      Thawing_02-512x512_142: -183165115691888293
+      Thawing_02-512x512_143: -150789842165337002
+      Thawing_02-512x512_144: 5341389834573591242
+      Thawing_02-512x512_145: -3210058439244784439
+      Thawing_02-512x512_146: 1202880243551322784
+      Thawing_02-512x512_147: -8118102949980233472
+      Thawing_02-512x512_148: 5363105314496263438
+      Thawing_02-512x512_149: -3067932967577017242
+      Thawing_02-512x512_15: -8106769245027188870
+      Thawing_02-512x512_150: -5867100130600108667
+      Thawing_02-512x512_151: 5195247606141611096
+      Thawing_02-512x512_16: -84480578819352163
+      Thawing_02-512x512_17: -2125366284288687356
+      Thawing_02-512x512_18: 1436562980081001641
+      Thawing_02-512x512_19: -794201479051567454
+      Thawing_02-512x512_2: -5223060432087739440
+      Thawing_02-512x512_20: -8020248871537537758
+      Thawing_02-512x512_21: -6456660126835837244
+      Thawing_02-512x512_22: -1387303214231007930
+      Thawing_02-512x512_23: 6701811747915404010
+      Thawing_02-512x512_24: 4781904421611918713
+      Thawing_02-512x512_25: -1110218597720763493
+      Thawing_02-512x512_26: 5392668525184414188
+      Thawing_02-512x512_27: 7458157929256130364
+      Thawing_02-512x512_28: -521625481219106429
+      Thawing_02-512x512_29: 5405982674757982903
+      Thawing_02-512x512_3: -907540876733611535
+      Thawing_02-512x512_30: -3900992612944300196
+      Thawing_02-512x512_31: 8525996971456433618
+      Thawing_02-512x512_32: -6809471405584074056
+      Thawing_02-512x512_33: 5559947590653829786
+      Thawing_02-512x512_34: 2247449256744968723
+      Thawing_02-512x512_35: -1767241140650802995
+      Thawing_02-512x512_36: -3637832557095152210
+      Thawing_02-512x512_37: -7165073212875835757
+      Thawing_02-512x512_38: 4761565137327254202
+      Thawing_02-512x512_39: 6093386552687681202
+      Thawing_02-512x512_4: 3863735868654395132
+      Thawing_02-512x512_40: 1520191646197669271
+      Thawing_02-512x512_41: -8316400657322298289
+      Thawing_02-512x512_42: -4736481258935930962
+      Thawing_02-512x512_43: 3705626842256227106
+      Thawing_02-512x512_44: 7100120349135957050
+      Thawing_02-512x512_45: -5090092407643855869
+      Thawing_02-512x512_46: -4798518903808732025
+      Thawing_02-512x512_47: 2811800015530701251
+      Thawing_02-512x512_48: -4251386774382098468
+      Thawing_02-512x512_49: 1399608489665604903
+      Thawing_02-512x512_5: 8551808722616694083
+      Thawing_02-512x512_50: -1932101420600139110
+      Thawing_02-512x512_51: 8126660241242669523
+      Thawing_02-512x512_52: -89515815801177102
+      Thawing_02-512x512_53: -1162192228558878503
+      Thawing_02-512x512_54: 6254483718236049625
+      Thawing_02-512x512_55: -6701331053157692028
+      Thawing_02-512x512_56: 813753658321612648
+      Thawing_02-512x512_57: 6239985795896087889
+      Thawing_02-512x512_58: 1688637682338805613
+      Thawing_02-512x512_59: 8786564632456341318
+      Thawing_02-512x512_6: -5688254431449023863
+      Thawing_02-512x512_60: 2856449844236350792
+      Thawing_02-512x512_61: 9159368418192750314
+      Thawing_02-512x512_62: -1668872947206403387
+      Thawing_02-512x512_63: -9024190690225453280
+      Thawing_02-512x512_64: -4179574221174216747
+      Thawing_02-512x512_65: -7849234330228259418
+      Thawing_02-512x512_66: -6098875126136396369
+      Thawing_02-512x512_67: -8618796604825015098
+      Thawing_02-512x512_68: -1651546015073768224
+      Thawing_02-512x512_69: 6274884899655484299
+      Thawing_02-512x512_7: -8523150603105985320
+      Thawing_02-512x512_70: 7837528667629927519
+      Thawing_02-512x512_71: 5032933775257230380
+      Thawing_02-512x512_72: 5110345610618966882
+      Thawing_02-512x512_73: -6741954358636776173
+      Thawing_02-512x512_74: -5649019998974928207
+      Thawing_02-512x512_75: -5222246855089999906
+      Thawing_02-512x512_76: 7002581143664847360
+      Thawing_02-512x512_77: 1043569266813007016
+      Thawing_02-512x512_78: 7415840674286589180
+      Thawing_02-512x512_79: -6692296838790184081
+      Thawing_02-512x512_8: 425508464977322226
+      Thawing_02-512x512_80: -7995326542743917940
+      Thawing_02-512x512_81: -1253636523949603833
+      Thawing_02-512x512_82: -7179579300781236430
+      Thawing_02-512x512_83: -1761348520824635383
+      Thawing_02-512x512_84: -162329709213070614
+      Thawing_02-512x512_85: -4467767479526504737
+      Thawing_02-512x512_86: 7786419530648365218
+      Thawing_02-512x512_87: 599270470254222725
+      Thawing_02-512x512_88: 5876003717475070307
+      Thawing_02-512x512_89: 3152909515067491822
+      Thawing_02-512x512_9: -1997487847713424713
+      Thawing_02-512x512_90: 943043924560994393
+      Thawing_02-512x512_91: -6100266050984142267
+      Thawing_02-512x512_92: 2847403121201381959
+      Thawing_02-512x512_93: 4185315983678773389
+      Thawing_02-512x512_94: 523291891152118566
+      Thawing_02-512x512_95: -8024785709085514195
+      Thawing_02-512x512_96: -6989780345487955056
+      Thawing_02-512x512_97: 7667035954518816019
+      Thawing_02-512x512_98: 5982932309863550088
+      Thawing_02-512x512_99: 157959006527257932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

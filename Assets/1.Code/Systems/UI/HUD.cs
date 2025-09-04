@@ -86,12 +86,6 @@ namespace _1.Code.Systems.UI
         {
         }
 
-        public void HUDDeltaCalc(float value, HUDTypes type)
-        {
-            if (type == hudAttribute)
-            {
-                valueMultiplier += value;
-            }
-        }
+        public void HUDDeltaCalc(float value) => valueMultiplier += value;
     }
 }

@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: ea103f85460db8e468ae3212e47f0953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4490366157444261819
+    second: Venusian_05-512x512_0
+  - first:
+      213: 812182964673029777
+    second: Venusian_05-512x512_1
+  - first:
+      213: -3443681355267718110
+    second: Venusian_05-512x512_2
+  - first:
+      213: 3220925728927421787
+    second: Venusian_05-512x512_3
+  - first:
+      213: -1187798830618095031
+    second: Venusian_05-512x512_4
+  - first:
+      213: -5997923263925551960
+    second: Venusian_05-512x512_5
+  - first:
+      213: 7162076921391805897
+    second: Venusian_05-512x512_6
+  - first:
+      213: -8576920848402201656
+    second: Venusian_05-512x512_7
+  - first:
+      213: -7395107649297658152
+    second: Venusian_05-512x512_8
+  - first:
+      213: -441829761220143491
+    second: Venusian_05-512x512_9
+  - first:
+      213: 8317169945035214338
+    second: Venusian_05-512x512_10
+  - first:
+      213: 3412275961125793332
+    second: Venusian_05-512x512_11
+  - first:
+      213: -8397238993639256685
+    second: Venusian_05-512x512_12
+  - first:
+      213: -3882907186020836295
+    second: Venusian_05-512x512_13
+  - first:
+      213: -5686902592890253258
+    second: Venusian_05-512x512_14
+  - first:
+      213: 4632419888531910597
+    second: Venusian_05-512x512_15
+  - first:
+      213: -3409150539265678090
+    second: Venusian_05-512x512_16
+  - first:
+      213: 4209258564772797782
+    second: Venusian_05-512x512_17
+  - first:
+      213: -8677068353248546623
+    second: Venusian_05-512x512_18
+  - first:
+      213: 6428305404632305968
+    second: Venusian_05-512x512_19
+  - first:
+      213: 3884176943201729229
+    second: Venusian_05-512x512_20
+  - first:
+      213: -4280347005982071905
+    second: Venusian_05-512x512_21
+  - first:
+      213: -2228703992643611383
+    second: Venusian_05-512x512_22
+  - first:
+      213: 2158248812071392610
+    second: Venusian_05-512x512_23
+  - first:
+      213: 637879713985161274
+    second: Venusian_05-512x512_24
+  - first:
+      213: -6714651609574835918
+    second: Venusian_05-512x512_25
+  - first:
+      213: 5505025625330288010
+    second: Venusian_05-512x512_26
+  - first:
+      213: -5662891348718255238
+    second: Venusian_05-512x512_27
+  - first:
+      213: -3954497282412415427
+    second: Venusian_05-512x512_28
+  - first:
+      213: 7384067146365745746
+    second: Venusian_05-512x512_29
+  - first:
+      213: 2956420225147513374
+    second: Venusian_05-512x512_30
+  - first:
+      213: 8023530895430598502
+    second: Venusian_05-512x512_31
+  - first:
+      213: 2315527548885630076
+    second: Venusian_05-512x512_32
+  - first:
+      213: 8629031481989165360
+    second: Venusian_05-512x512_33
+  - first:
+      213: -5160607357393429
+    second: Venusian_05-512x512_34
+  - first:
+      213: 8836295705830517417
+    second: Venusian_05-512x512_35
+  - first:
+      213: -166627551734208139
+    second: Venusian_05-512x512_36
+  - first:
+      213: 4373946753075223889
+    second: Venusian_05-512x512_37
+  - first:
+      213: 7312439287580051960
+    second: Venusian_05-512x512_38
+  - first:
+      213: -2298410551353849217
+    second: Venusian_05-512x512_39
+  - first:
+      213: -114220414153768466
+    second: Venusian_05-512x512_40
+  - first:
+      213: 6614737188030496558
+    second: Venusian_05-512x512_41
+  - first:
+      213: 6921121746926229280
+    second: Venusian_05-512x512_42
+  - first:
+      213: 7847981055139523620
+    second: Venusian_05-512x512_43
+  - first:
+      213: 1752553147405880967
+    second: Venusian_05-512x512_44
+  - first:
+      213: -7625459269870167656
+    second: Venusian_05-512x512_45
+  - first:
+      213: -6049843108312382882
+    second: Venusian_05-512x512_46
+  - first:
+      213: 9150260841164593472
+    second: Venusian_05-512x512_47
+  - first:
+      213: 4959445160627302738
+    second: Venusian_05-512x512_48
+  - first:
+      213: -8206450572278932770
+    second: Venusian_05-512x512_49
+  - first:
+      213: 2656827992908354669
+    second: Venusian_05-512x512_50
+  - first:
+      213: 8211865228904835682
+    second: Venusian_05-512x512_51
+  - first:
+      213: 1312800850130540068
+    second: Venusian_05-512x512_52
+  - first:
+      213: -2317344310775917126
+    second: Venusian_05-512x512_53
+  - first:
+      213: 2842132554409203199
+    second: Venusian_05-512x512_54
+  - first:
+      213: -8037369649114817382
+    second: Venusian_05-512x512_55
+  - first:
+      213: 411006148504510697
+    second: Venusian_05-512x512_56
+  - first:
+      213: -1167188138604760976
+    second: Venusian_05-512x512_57
+  - first:
+      213: 5667889248046547856
+    second: Venusian_05-512x512_58
+  - first:
+      213: -6539038446792042909
+    second: Venusian_05-512x512_59
+  - first:
+      213: 5919572390495231972
+    second: Venusian_05-512x512_60
+  - first:
+      213: 1722069926349877893
+    second: Venusian_05-512x512_61
+  - first:
+      213: -7979001681365724846
+    second: Venusian_05-512x512_62
+  - first:
+      213: -6303236171849130908
+    second: Venusian_05-512x512_63
+  - first:
+      213: -7091059513402799783
+    second: Venusian_05-512x512_64
+  - first:
+      213: -758426647876669372
+    second: Venusian_05-512x512_65
+  - first:
+      213: 1977158494110052768
+    second: Venusian_05-512x512_66
+  - first:
+      213: -3335928621136523810
+    second: Venusian_05-512x512_67
+  - first:
+      213: -8247098418370276429
+    second: Venusian_05-512x512_68
+  - first:
+      213: 6603256108306636017
+    second: Venusian_05-512x512_69
+  - first:
+      213: -6226838897744351019
+    second: Venusian_05-512x512_70
+  - first:
+      213: 6619923061384329221
+    second: Venusian_05-512x512_71
+  - first:
+      213: -6362587575828106238
+    second: Venusian_05-512x512_72
+  - first:
+      213: -8237085456686724430
+    second: Venusian_05-512x512_73
+  - first:
+      213: -7324875107694385962
+    second: Venusian_05-512x512_74
+  - first:
+      213: -1293695225863056219
+    second: Venusian_05-512x512_75
+  - first:
+      213: -3819860727917014997
+    second: Venusian_05-512x512_76
+  - first:
+      213: 3978216999385627836
+    second: Venusian_05-512x512_77
+  - first:
+      213: -2466409849296552845
+    second: Venusian_05-512x512_78
+  - first:
+      213: 4640281786235286994
+    second: Venusian_05-512x512_79
+  - first:
+      213: 8108807540051416216
+    second: Venusian_05-512x512_80
+  - first:
+      213: 1062978797344219048
+    second: Venusian_05-512x512_81
+  - first:
+      213: -353891202354030728
+    second: Venusian_05-512x512_82
+  - first:
+      213: -140916655283831242
+    second: Venusian_05-512x512_83
+  - first:
+      213: 3709048112219985043
+    second: Venusian_05-512x512_84
+  - first:
+      213: 5576911025550151527
+    second: Venusian_05-512x512_85
+  - first:
+      213: 4954133860509506904
+    second: Venusian_05-512x512_86
+  - first:
+      213: -1547710817771187423
+    second: Venusian_05-512x512_87
+  - first:
+      213: -1638275625559666862
+    second: Venusian_05-512x512_88
+  - first:
+      213: -2378563783375918965
+    second: Venusian_05-512x512_89
+  - first:
+      213: -4511503623862023325
+    second: Venusian_05-512x512_90
+  - first:
+      213: 8766970804143611650
+    second: Venusian_05-512x512_91
+  - first:
+      213: -3730662962660895184
+    second: Venusian_05-512x512_92
+  - first:
+      213: -6954081069217822395
+    second: Venusian_05-512x512_93
+  - first:
+      213: 7844322003359847466
+    second: Venusian_05-512x512_94
+  - first:
+      213: 8471883338638528039
+    second: Venusian_05-512x512_95
+  - first:
+      213: 6555709784367807874
+    second: Venusian_05-512x512_96
+  - first:
+      213: 4089030999774305199
+    second: Venusian_05-512x512_97
+  - first:
+      213: -4536741182940576839
+    second: Venusian_05-512x512_98
+  - first:
+      213: 7305351242434933445
+    second: Venusian_05-512x512_99
+  - first:
+      213: 4038376098175935400
+    second: Venusian_05-512x512_100
+  - first:
+      213: -2558483528209146418
+    second: Venusian_05-512x512_101
+  - first:
+      213: 6832107963909575658
+    second: Venusian_05-512x512_102
+  - first:
+      213: 4140301897959101491
+    second: Venusian_05-512x512_103
+  - first:
+      213: -2497864459444990231
+    second: Venusian_05-512x512_104
+  - first:
+      213: 562980869174158170
+    second: Venusian_05-512x512_105
+  - first:
+      213: 6697443376920320879
+    second: Venusian_05-512x512_106
+  - first:
+      213: 7006267320184520309
+    second: Venusian_05-512x512_107
+  - first:
+      213: 3656029813678803176
+    second: Venusian_05-512x512_108
+  - first:
+      213: 964657103868994384
+    second: Venusian_05-512x512_109
+  - first:
+      213: -537012696516920009
+    second: Venusian_05-512x512_110
+  - first:
+      213: 5822463929238137795
+    second: Venusian_05-512x512_111
+  - first:
+      213: -3509483956242822154
+    second: Venusian_05-512x512_112
+  - first:
+      213: -7022911255304112245
+    second: Venusian_05-512x512_113
+  - first:
+      213: -6626485325719113998
+    second: Venusian_05-512x512_114
+  - first:
+      213: -4475176816424524257
+    second: Venusian_05-512x512_115
+  - first:
+      213: -7977266613984568685
+    second: Venusian_05-512x512_116
+  - first:
+      213: 1937974091134364727
+    second: Venusian_05-512x512_117
+  - first:
+      213: -2098875928987202165
+    second: Venusian_05-512x512_118
+  - first:
+      213: -8212556091297463051
+    second: Venusian_05-512x512_119
+  - first:
+      213: -6814998968954617644
+    second: Venusian_05-512x512_120
+  - first:
+      213: 4706758781004942480
+    second: Venusian_05-512x512_121
+  - first:
+      213: -7321487368320998120
+    second: Venusian_05-512x512_122
+  - first:
+      213: 5946716809517677963
+    second: Venusian_05-512x512_123
+  - first:
+      213: -3457769610320085749
+    second: Venusian_05-512x512_124
+  - first:
+      213: -2986744753789027651
+    second: Venusian_05-512x512_125
+  - first:
+      213: 7087372386265501999
+    second: Venusian_05-512x512_126
+  - first:
+      213: -3043760168259696174
+    second: Venusian_05-512x512_127
+  - first:
+      213: 4341038577783982368
+    second: Venusian_05-512x512_128
+  - first:
+      213: -2778299373464907389
+    second: Venusian_05-512x512_129
+  - first:
+      213: 2558523050434157738
+    second: Venusian_05-512x512_130
+  - first:
+      213: -5072104050736948109
+    second: Venusian_05-512x512_131
+  - first:
+      213: 5699001572703539995
+    second: Venusian_05-512x512_132
+  - first:
+      213: 1716706764838033985
+    second: Venusian_05-512x512_133
+  - first:
+      213: -2535280252698104269
+    second: Venusian_05-512x512_134
+  - first:
+      213: -2325721950778796993
+    second: Venusian_05-512x512_135
+  - first:
+      213: 142908086392731712
+    second: Venusian_05-512x512_136
+  - first:
+      213: 2814208116948505308
+    second: Venusian_05-512x512_137
+  - first:
+      213: -8661357946292050722
+    second: Venusian_05-512x512_138
+  - first:
+      213: -7716491582573581726
+    second: Venusian_05-512x512_139
+  - first:
+      213: 5872510477529529581
+    second: Venusian_05-512x512_140
+  - first:
+      213: 8857057339036314399
+    second: Venusian_05-512x512_141
+  - first:
+      213: 4167340459869574344
+    second: Venusian_05-512x512_142
+  - first:
+      213: -6364445719249683773
+    second: Venusian_05-512x512_143
+  - first:
+      213: 6319609709834583081
+    second: Venusian_05-512x512_144
+  - first:
+      213: 200945240634738554
+    second: Venusian_05-512x512_145
+  - first:
+      213: 2298556658263208403
+    second: Venusian_05-512x512_146
+  - first:
+      213: -2145036142242557192
+    second: Venusian_05-512x512_147
+  - first:
+      213: -2848709919363826147
+    second: Venusian_05-512x512_148
+  - first:
+      213: -8513850581857164797
+    second: Venusian_05-512x512_149
+  - first:
+      213: 6771506223313219265
+    second: Venusian_05-512x512_150
+  - first:
+      213: 873403229371765549
+    second: Venusian_05-512x512_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Venusian_05-512x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a6edaa3cf05e30800000000000000
+      internalID: 4490366157444261819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a5fd6a14754b00800000000000000
+      internalID: 812182964673029777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224c1a38d069530d0800000000000000
+      internalID: -3443681355267718110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5592a0a2e603bc20800000000000000
+      internalID: 3220925728927421787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942526cb147148fe0800000000000000
+      internalID: -1187798830618095031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac7aafd19813cca0800000000000000
+      internalID: -5997923263925551960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f491830fc46360800000000000000
+      internalID: 7162076921391805897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3485c4ee7a8f880800000000000000
+      internalID: -8576920848402201656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec6df16cc4f5990800000000000000
+      internalID: -7395107649297658152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76174f4c2e4ed9f0800000000000000
+      internalID: -441829761220143491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e016eaff58c6370800000000000000
+      internalID: 8317169945035214338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee18a58e6da5f20800000000000000
+      internalID: 3412275961125793332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc21230a3077b80800000000000000
+      internalID: -8397238993639256685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9a61ac742d1ac0800000000000000
+      internalID: -3882907186020836295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305786e8301411b0800000000000000
+      internalID: -5686902592890253258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf26625859a94040800000000000000
+      internalID: 4632419888531910597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ec31a5a340b0d0800000000000000
+      internalID: -3409150539265678090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9d01fc5a4a6a30800000000000000
+      internalID: 4209258564772797782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c036d84e4cd49780800000000000000
+      internalID: -8677068353248546623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03115d6f4bde53950800000000000000
+      internalID: 6428305404632305968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3d40c95e57e530800000000000000
+      internalID: 3884176943201729229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93280983172994c0800000000000000
+      internalID: -4280347005982071905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059bf0e68d0211e0800000000000000
+      internalID: -2228703992643611383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659c641cd3a3fd10800000000000000
+      internalID: 2158248812071392610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38638168343ad800800000000000000
+      internalID: 637879713985161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23979c4dfe3c0d2a0800000000000000
+      internalID: -6714651609574835918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 484
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a850c3da3a7c56c40800000000000000
+      internalID: 5505025625330288010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a730406525e5961b0800000000000000
+      internalID: -5662891348718255238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367f886cadce19c0800000000000000
+      internalID: -3954497282412415427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 476
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a33c872f9797660800000000000000
+      internalID: 7384067146365745746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa2bee780570920800000000000000
+      internalID: 2956420225147513374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3382c6de495f60800000000000000
+      internalID: 8023530895430598502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 451
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c75fa9908622020800000000000000
+      internalID: 2315527548885630076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03170af0a6a70c770800000000000000
+      internalID: 8629031481989165360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be523a7747aadeff0800000000000000
+      internalID: -5160607357393429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6654b024d0aa70800000000000000
+      internalID: 8836295705830517417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e611ef1500bdf0800000000000000
+      internalID: -166627551734208139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9583d56163bc30800000000000000
+      internalID: 4373946753075223889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c1d10ac00b7560800000000000000
+      internalID: 7312439287580051960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4b82f7c76a10e0800000000000000
+      internalID: -2298410551353849217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1444473253a6ef0800000000000000
+      internalID: -114220414153768466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fbf171d644ccb50800000000000000
+      internalID: 6614737188030496558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d4c42f83cc0060800000000000000
+      internalID: 6921121746926229280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c26937031a9ec60800000000000000
+      internalID: 7847981055139523620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ece195dc1525810800000000000000
+      internalID: 1752553147405880967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899dd2a023dec2690800000000000000
+      internalID: -7625459269870167656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5202361fb3aa0ca0800000000000000
+      internalID: -6049843108312382882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 375
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04958cf31c14cfe70800000000000000
+      internalID: 9150260841164593472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251783ae81d73d440800000000000000
+      internalID: 4959445160627302738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda53842fa4dc1e80800000000000000
+      internalID: -8206450572278932770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64dd9aabf2fed420800000000000000
+      internalID: 2656827992908354669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a2148dae766f170800000000000000
+      internalID: 8211865228904835682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4269cdcea61083210800000000000000
+      internalID: 1312800850130540068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 338
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5dded80a327dfd0800000000000000
+      internalID: -2317344310775917126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5522eff78417720800000000000000
+      internalID: 2842132554409203199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c510053e6857090800000000000000
+      internalID: -8037369649114817382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ec1a1aef24b500800000000000000
+      internalID: 411006148504510697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f96c62905dcfe0800000000000000
+      internalID: -1167188138604760976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930218cd3368ae40800000000000000
+      internalID: 5667889248046547856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366965e8d2ba045a0800000000000000
+      internalID: -6539038446792042909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 280
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9da5d9bb862250800000000000000
+      internalID: 5919572390495231972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b77e597506e710800000000000000
+      internalID: 1722069926349877893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25193ffce34e44190800000000000000
+      internalID: -7979001681365724846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c1a8109186688a0800000000000000
+      internalID: -6303236171849130908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 264
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959c87e41fe779d90800000000000000
+      internalID: -7091059513402799783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440fe196bf68975f0800000000000000
+      internalID: -758426647876669372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1731acc27407b10800000000000000
+      internalID: 1977158494110052768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4915f79664b1d0800000000000000
+      internalID: -3335928621136523810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b39a59feab6c8d80800000000000000
+      internalID: -8247098418370276429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9b88e17a73ab50800000000000000
+      internalID: 6603256108306636017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0fc528303d599a0800000000000000
+      internalID: -6226838897744351019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ba3253f0bedb50800000000000000
+      internalID: 6619923061384329221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b37a6f4c83b7a0800000000000000
+      internalID: -6362587575828106238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac6a94b6effad80800000000000000
+      internalID: -8237085456686724430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d466cdf5e0d85a90800000000000000
+      internalID: -7324875107694385962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 214
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a450dedb0fdb0ee0800000000000000
+      internalID: -1293695225863056219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 195
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b209a0d08e02dfac0800000000000000
+      internalID: -3819860727917014997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcfccf8847753730800000000000000
+      internalID: 3978216999385627836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c77264f4d85cdd0800000000000000
+      internalID: -2466409849296552845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f44603b7956040800000000000000
+      internalID: 4640281786235286994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89416c0de75488070800000000000000
+      internalID: 8108807540051416216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5973959570ce00800000000000000
+      internalID: 1062978797344219048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8775d8293d9b61bf0800000000000000
+      internalID: -353891202354030728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_83
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 158
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63efed27c0d5b0ef0800000000000000
+      internalID: -140916655283831242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39494bf4b9f297330800000000000000
+      internalID: 3709048112219985043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f40eda70b256d40800000000000000
+      internalID: 5576911025550151527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d576d7f7e90c440800000000000000
+      internalID: 4954133860509506904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12318bb163d658ae0800000000000000
+      internalID: -1547710817771187423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fc55e9ffca349e0800000000000000
+      internalID: -1638275625559666862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e44857d4adfed0800000000000000
+      internalID: -2378563783375918965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b01d86b5be361c0800000000000000
+      internalID: -4511503623862023325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f53393f798aa970800000000000000
+      internalID: 8766970804143611650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03614e52dc50a3cc0800000000000000
+      internalID: -3730662962660895184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c002ac142e7f90800000000000000
+      internalID: -6954081069217822395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a245b021d41acdc60800000000000000
+      internalID: 7844322003359847466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8912b20d229570800000000000000
+      internalID: 8471883338638528039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dbbc3b05f8afa50800000000000000
+      internalID: 6555709784367807874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_97
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9b1997082fb830800000000000000
+      internalID: 4089030999774305199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b301f84ee14a01c0800000000000000
+      internalID: -4536741182940576839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2fac4ef32d16560800000000000000
+      internalID: 7305351242434933445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a364314aa13b0830800000000000000
+      internalID: 4038376098175935400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdd76959c07e7cd0800000000000000
+      internalID: -2558483528209146418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae392ffbef580de50800000000000000
+      internalID: 6832107963909575658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345ab2d3ae457930800000000000000
+      internalID: 4140301897959101491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee45b5228dc55dd0800000000000000
+      internalID: -2497864459444990231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5367722e1c10d700800000000000000
+      internalID: 562980869174158170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd0a8444912fc50800000000000000
+      internalID: 6697443376920320879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb605c1034b3160800000000000000
+      internalID: 7006267320184520309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8009cbeb3dcb230800000000000000
+      internalID: 3656029813678803176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0532b266686236d00800000000000000
+      internalID: 964657103868994384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dfb383cc52c88f0800000000000000
+      internalID: -537012696516920009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cba3cb481c8dc050800000000000000
+      internalID: 5822463929238137795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_112
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc6339feecb4fc0800000000000000
+      internalID: -3509483956242822154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87718a1c6b998e90800000000000000
+      internalID: -7022911255304112245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6c2374bef904a0800000000000000
+      internalID: -6626485325719113998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e3fd556af4e1c0800000000000000
+      internalID: -4475176816424524257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39adddaa74e0b4190800000000000000
+      internalID: -7977266613984568685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c69f50b2115ea10800000000000000
+      internalID: 1937974091134364727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8911867b4fd2e0800000000000000
+      internalID: -2098875928987202165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_119
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f48e383fb3270e80800000000000000
+      internalID: -8212556091297463051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_120
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08ece8b824c61a0800000000000000
+      internalID: -6814998968954617644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c00418c24c15140800000000000000
+      internalID: 4706758781004942480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a7b7870ad46a90800000000000000
+      internalID: -7321487368320998120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_123
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d35236e6bf68250800000000000000
+      internalID: 5946716809517677963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dfab50cd88300d0800000000000000
+      internalID: -3457769610320085749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab4ab8873fc86d0800000000000000
+      internalID: -2986744753789027651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21944282a76b5260800000000000000
+      internalID: 7087372386265501999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c565e04462c5d0800000000000000
+      internalID: -3043760168259696174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029c41136977e3c30800000000000000
+      internalID: 4341038577783982368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3811fec907f7179d0800000000000000
+      internalID: -2778299373464907389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacd6c2a823b18320800000000000000
+      internalID: 2558523050434157738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c11003d344c99b0800000000000000
+      internalID: -5072104050736948109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13136b5cbbe61f40800000000000000
+      internalID: 5699001572703539995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a5ea505b7f2d710800000000000000
+      internalID: 1716706764838033985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_134
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eeddbea00e0dcd0800000000000000
+      internalID: -2535280252698104269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_135
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34508d353069bfd0800000000000000
+      internalID: -2325721950778796993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_136
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04838fcb526bbf100800000000000000
+      internalID: 142908086392731712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29cbe3f531e0720800000000000000
+      internalID: 2814208116948505308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed461c276dcacc780800000000000000
+      internalID: -8661357946292050722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae8641ac389e490800000000000000
+      internalID: -7716491582573581726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_140
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec38e85a295f7150800000000000000
+      internalID: 5872510477529529581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba68029b69aea70800000000000000
+      internalID: 8857057339036314399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_142
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c493a8911e55d930800000000000000
+      internalID: 4167340459869574344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafddfa652fca7a0800000000000000
+      internalID: -6364445719249683773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_144
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbcc16c83c3b750800000000000000
+      internalID: 6319609709834583081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_145
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77c657b1a6e9c200800000000000000
+      internalID: 200945240634738554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d133e73a1d16ef10800000000000000
+      internalID: 2298556658263208403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f212475efc4b32e0800000000000000
+      internalID: -2145036142242557192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_148
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eff24eb695778d0800000000000000
+      internalID: -2848709919363826147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302a6ad010ab8d980800000000000000
+      internalID: -8513850581857164797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce6eea780939fd50800000000000000
+      internalID: 6771506223313219265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venusian_05-512x512_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2312601c93fe1c00800000000000000
+      internalID: 873403229371765549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Venusian_05-512x512_0: 4490366157444261819
+      Venusian_05-512x512_1: 812182964673029777
+      Venusian_05-512x512_10: 8317169945035214338
+      Venusian_05-512x512_100: 4038376098175935400
+      Venusian_05-512x512_101: -2558483528209146418
+      Venusian_05-512x512_102: 6832107963909575658
+      Venusian_05-512x512_103: 4140301897959101491
+      Venusian_05-512x512_104: -2497864459444990231
+      Venusian_05-512x512_105: 562980869174158170
+      Venusian_05-512x512_106: 6697443376920320879
+      Venusian_05-512x512_107: 7006267320184520309
+      Venusian_05-512x512_108: 3656029813678803176
+      Venusian_05-512x512_109: 964657103868994384
+      Venusian_05-512x512_11: 3412275961125793332
+      Venusian_05-512x512_110: -537012696516920009
+      Venusian_05-512x512_111: 5822463929238137795
+      Venusian_05-512x512_112: -3509483956242822154
+      Venusian_05-512x512_113: -7022911255304112245
+      Venusian_05-512x512_114: -6626485325719113998
+      Venusian_05-512x512_115: -4475176816424524257
+      Venusian_05-512x512_116: -7977266613984568685
+      Venusian_05-512x512_117: 1937974091134364727
+      Venusian_05-512x512_118: -2098875928987202165
+      Venusian_05-512x512_119: -8212556091297463051
+      Venusian_05-512x512_12: -8397238993639256685
+      Venusian_05-512x512_120: -6814998968954617644
+      Venusian_05-512x512_121: 4706758781004942480
+      Venusian_05-512x512_122: -7321487368320998120
+      Venusian_05-512x512_123: 5946716809517677963
+      Venusian_05-512x512_124: -3457769610320085749
+      Venusian_05-512x512_125: -2986744753789027651
+      Venusian_05-512x512_126: 7087372386265501999
+      Venusian_05-512x512_127: -3043760168259696174
+      Venusian_05-512x512_128: 4341038577783982368
+      Venusian_05-512x512_129: -2778299373464907389
+      Venusian_05-512x512_13: -3882907186020836295
+      Venusian_05-512x512_130: 2558523050434157738
+      Venusian_05-512x512_131: -5072104050736948109
+      Venusian_05-512x512_132: 5699001572703539995
+      Venusian_05-512x512_133: 1716706764838033985
+      Venusian_05-512x512_134: -2535280252698104269
+      Venusian_05-512x512_135: -2325721950778796993
+      Venusian_05-512x512_136: 142908086392731712
+      Venusian_05-512x512_137: 2814208116948505308
+      Venusian_05-512x512_138: -8661357946292050722
+      Venusian_05-512x512_139: -7716491582573581726
+      Venusian_05-512x512_14: -5686902592890253258
+      Venusian_05-512x512_140: 5872510477529529581
+      Venusian_05-512x512_141: 8857057339036314399
+      Venusian_05-512x512_142: 4167340459869574344
+      Venusian_05-512x512_143: -6364445719249683773
+      Venusian_05-512x512_144: 6319609709834583081
+      Venusian_05-512x512_145: 200945240634738554
+      Venusian_05-512x512_146: 2298556658263208403
+      Venusian_05-512x512_147: -2145036142242557192
+      Venusian_05-512x512_148: -2848709919363826147
+      Venusian_05-512x512_149: -8513850581857164797
+      Venusian_05-512x512_15: 4632419888531910597
+      Venusian_05-512x512_150: 6771506223313219265
+      Venusian_05-512x512_151: 873403229371765549
+      Venusian_05-512x512_16: -3409150539265678090
+      Venusian_05-512x512_17: 4209258564772797782
+      Venusian_05-512x512_18: -8677068353248546623
+      Venusian_05-512x512_19: 6428305404632305968
+      Venusian_05-512x512_2: -3443681355267718110
+      Venusian_05-512x512_20: 3884176943201729229
+      Venusian_05-512x512_21: -4280347005982071905
+      Venusian_05-512x512_22: -2228703992643611383
+      Venusian_05-512x512_23: 2158248812071392610
+      Venusian_05-512x512_24: 637879713985161274
+      Venusian_05-512x512_25: -6714651609574835918
+      Venusian_05-512x512_26: 5505025625330288010
+      Venusian_05-512x512_27: -5662891348718255238
+      Venusian_05-512x512_28: -3954497282412415427
+      Venusian_05-512x512_29: 7384067146365745746
+      Venusian_05-512x512_3: 3220925728927421787
+      Venusian_05-512x512_30: 2956420225147513374
+      Venusian_05-512x512_31: 8023530895430598502
+      Venusian_05-512x512_32: 2315527548885630076
+      Venusian_05-512x512_33: 8629031481989165360
+      Venusian_05-512x512_34: -5160607357393429
+      Venusian_05-512x512_35: 8836295705830517417
+      Venusian_05-512x512_36: -166627551734208139
+      Venusian_05-512x512_37: 4373946753075223889
+      Venusian_05-512x512_38: 7312439287580051960
+      Venusian_05-512x512_39: -2298410551353849217
+      Venusian_05-512x512_4: -1187798830618095031
+      Venusian_05-512x512_40: -114220414153768466
+      Venusian_05-512x512_41: 6614737188030496558
+      Venusian_05-512x512_42: 6921121746926229280
+      Venusian_05-512x512_43: 7847981055139523620
+      Venusian_05-512x512_44: 1752553147405880967
+      Venusian_05-512x512_45: -7625459269870167656
+      Venusian_05-512x512_46: -6049843108312382882
+      Venusian_05-512x512_47: 9150260841164593472
+      Venusian_05-512x512_48: 4959445160627302738
+      Venusian_05-512x512_49: -8206450572278932770
+      Venusian_05-512x512_5: -5997923263925551960
+      Venusian_05-512x512_50: 2656827992908354669
+      Venusian_05-512x512_51: 8211865228904835682
+      Venusian_05-512x512_52: 1312800850130540068
+      Venusian_05-512x512_53: -2317344310775917126
+      Venusian_05-512x512_54: 2842132554409203199
+      Venusian_05-512x512_55: -8037369649114817382
+      Venusian_05-512x512_56: 411006148504510697
+      Venusian_05-512x512_57: -1167188138604760976
+      Venusian_05-512x512_58: 5667889248046547856
+      Venusian_05-512x512_59: -6539038446792042909
+      Venusian_05-512x512_6: 7162076921391805897
+      Venusian_05-512x512_60: 5919572390495231972
+      Venusian_05-512x512_61: 1722069926349877893
+      Venusian_05-512x512_62: -7979001681365724846
+      Venusian_05-512x512_63: -6303236171849130908
+      Venusian_05-512x512_64: -7091059513402799783
+      Venusian_05-512x512_65: -758426647876669372
+      Venusian_05-512x512_66: 1977158494110052768
+      Venusian_05-512x512_67: -3335928621136523810
+      Venusian_05-512x512_68: -8247098418370276429
+      Venusian_05-512x512_69: 6603256108306636017
+      Venusian_05-512x512_7: -8576920848402201656
+      Venusian_05-512x512_70: -6226838897744351019
+      Venusian_05-512x512_71: 6619923061384329221
+      Venusian_05-512x512_72: -6362587575828106238
+      Venusian_05-512x512_73: -8237085456686724430
+      Venusian_05-512x512_74: -7324875107694385962
+      Venusian_05-512x512_75: -1293695225863056219
+      Venusian_05-512x512_76: -3819860727917014997
+      Venusian_05-512x512_77: 3978216999385627836
+      Venusian_05-512x512_78: -2466409849296552845
+      Venusian_05-512x512_79: 4640281786235286994
+      Venusian_05-512x512_8: -7395107649297658152
+      Venusian_05-512x512_80: 8108807540051416216
+      Venusian_05-512x512_81: 1062978797344219048
+      Venusian_05-512x512_82: -353891202354030728
+      Venusian_05-512x512_83: -140916655283831242
+      Venusian_05-512x512_84: 3709048112219985043
+      Venusian_05-512x512_85: 5576911025550151527
+      Venusian_05-512x512_86: 4954133860509506904
+      Venusian_05-512x512_87: -1547710817771187423
+      Venusian_05-512x512_88: -1638275625559666862
+      Venusian_05-512x512_89: -2378563783375918965
+      Venusian_05-512x512_9: -441829761220143491
+      Venusian_05-512x512_90: -4511503623862023325
+      Venusian_05-512x512_91: 8766970804143611650
+      Venusian_05-512x512_92: -3730662962660895184
+      Venusian_05-512x512_93: -6954081069217822395
+      Venusian_05-512x512_94: 7844322003359847466
+      Venusian_05-512x512_95: 8471883338638528039
+      Venusian_05-512x512_96: 6555709784367807874
+      Venusian_05-512x512_97: 4089030999774305199
+      Venusian_05-512x512_98: -4536741182940576839
+      Venusian_05-512x512_99: 7305351242434933445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
