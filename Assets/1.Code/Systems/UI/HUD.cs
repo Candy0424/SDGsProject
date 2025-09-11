@@ -13,7 +13,7 @@ namespace _1.Code.Systems.UI
     public abstract class HUD : MonoBehaviour, ITurnAble
     {
         [Header("HUDSettings")]
-        [SerializeField] protected HUDTypes hudAttribute;
+        [field: SerializeField] public HUDTypes HudAttribute { get; private set; }
         [SerializeField] private float maxValue = 100f;
         [SerializeField] private float minValue = 0f;
         [SerializeField] private float duration = 0.5f;
@@ -28,7 +28,7 @@ namespace _1.Code.Systems.UI
 
         public UnityEvent OnZeroEvent;
         
-        public float HUDValue
+        private float HUDValue
         {
             get => _hudGage.value;
             set
@@ -37,6 +37,8 @@ namespace _1.Code.Systems.UI
                 DOVirtual.Float(_hudGage.value, v, duration, x => _hudGage.value = x).SetEase(Ease.OutSine);
             }
         }
+
+        public void GageCalc(int value) => HUDValue += value;
 
         private void Awake()
         {

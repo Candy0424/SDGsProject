@@ -2,7 +2,6 @@
 
 namespace _1.Code.Defines
 {
-    [Flags]
     public enum HUDTypes
     { 
         None = 0,

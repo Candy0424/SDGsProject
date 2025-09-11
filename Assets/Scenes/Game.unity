@@ -402,7 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e06cbac7867441ebc62383127ea47ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hudAttribute: 0
+  <HudAttribute>k__BackingField: 4
   maxValue: 100
   minValue: 0
   duration: 0.5
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236a5f2cea034491a1f8f3fa3cd206da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hudAttribute: 2
+  <HudAttribute>k__BackingField: 2
   maxValue: 100
   minValue: 0
   duration: 0.5
@@ -590,7 +590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2c9ccd6a60f4443b11cc1b0a12a367a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hudAttribute: 0
+  <HudAttribute>k__BackingField: 8
   maxValue: 100
   minValue: 0
   duration: 0.5
@@ -697,7 +697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ce3504edcab4388bd150c76e6604ddb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hudAttribute: 0
+  <HudAttribute>k__BackingField: 1
   maxValue: 100
   minValue: 0
   duration: 0.5
@@ -856,6 +856,7 @@ GameObject:
   - component: {fileID: 954983773}
   - component: {fileID: 954983772}
   - component: {fileID: 954983771}
+  - component: {fileID: 954983774}
   m_Layer: 5
   m_Name: HUDPanel
   m_TagString: Untagged
@@ -954,6 +955,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 954983769}
   m_CullTransparentMesh: 1
+--- !u!114 &954983774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 954983769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac04c3ba9694ee295789924041c80a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &977984378
 GameObject:
   m_ObjectHideFlags: 0
