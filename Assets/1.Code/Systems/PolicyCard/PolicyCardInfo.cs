@@ -7,7 +7,7 @@ using UnityEngine;
 namespace _1.Code.Systems.PolicyCard
 {
     [Serializable]
-    public struct Test
+    public struct HUDDatas
     {
         public HUDTypes valueType;
         public int value;
@@ -20,6 +20,6 @@ namespace _1.Code.Systems.PolicyCard
         [TextArea] public string cardDescription;
         public Sprite cardImage;
 
-        public List<Test> Values;
+        public List<HUDDatas> datas;
     }
 }
