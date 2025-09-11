@@ -3,8 +3,8 @@ guid: 2eb9da540ad1b024b89f7b6c44559cce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2055777624330794857
-    second: CO2CardPrame_0
+      213: 4243828549217089379
+    second: CO2CardFrame_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CO2CardPrame_0
+      name: CO2CardFrame_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1536
+        x: 50
+        y: 104
+        width: 309
+        height: 404
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 798019484296873e0800000000000000
-      internalID: -2055777624330794857
+      spriteID: 367febba49b15ea30800000000000000
+      internalID: 4243828549217089379
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      CO2CardPrame_0: -2055777624330794857
+      CO2CardFrame_0: 4243828549217089379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

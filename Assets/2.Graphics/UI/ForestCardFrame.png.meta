@@ -3,8 +3,8 @@ guid: 51aceca61cad6394eb21a2ca9c0f0186
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5292249080195361945
-    second: ForestCardPrame_0
+      213: -8175706828706114294
+    second: ForestCardFrame_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ForestCardPrame_0
+      name: ForestCardFrame_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1536
+        x: 105
+        y: 219
+        width: 644
+        height: 842
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 763511840872e86b0800000000000000
-      internalID: -5292249080195361945
+      spriteID: a059c3fb4fd0a8e80800000000000000
+      internalID: -8175706828706114294
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ForestCardPrame_0: -5292249080195361945
+      ForestCardFrame_0: -8175706828706114294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
