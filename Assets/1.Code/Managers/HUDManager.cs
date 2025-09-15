@@ -5,7 +5,7 @@ using _1.Code.Defines;
 using _1.Code.Systems.UI;
 using UnityEngine;
 
-namespace _1.Code.Managed
+namespace _1.Code.Managers
 {
     public class HUDManager : MonoBehaviour
     {
