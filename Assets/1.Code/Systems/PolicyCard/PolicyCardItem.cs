@@ -4,6 +4,6 @@ namespace _1.Code.Systems.PolicyCard
 {
     public class PolicyCardItem : MonoBehaviour
     {
-        [SerializeField] private PolicyCardInfo cardInfo;
+        [field : SerializeField] public PolicyCardInfo cardInfo { get; private set; }
     }
 }

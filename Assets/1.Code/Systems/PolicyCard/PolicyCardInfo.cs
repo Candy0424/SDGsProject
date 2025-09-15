@@ -18,6 +18,9 @@ namespace _1.Code.Systems.PolicyCard
     {
         public string cardName;
         [TextArea] public string cardDescription;
+
+        public HUDTypes cardType;
+        
         public Sprite cardImage;
 
         public List<HUDDatas> datas;
