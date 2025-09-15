@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using UnityEngine;
@@ -26,6 +24,11 @@ namespace _1.Code.Managers
             {
                 _policyCards[item.cardInfo.cardType].Add(item);
             }
+        }
+
+        public List<PolicyCardItem> GetPolicyCard(HUDTypes type)
+        {
+            return _policyCards.GetValueOrDefault(type);
         }
     }
 }
