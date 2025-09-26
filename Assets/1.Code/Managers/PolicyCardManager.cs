@@ -9,6 +9,8 @@ namespace _1.Code.Managers
     {
         private Dictionary<HUDTypes, List<PolicyCardItem>> _policyCards;
 
+        [SerializeField] private PolicyCardItem currentCard;
+        
         private void Awake()
         {
             _policyCards = new Dictionary<HUDTypes, List<PolicyCardItem>>();
@@ -23,12 +25,9 @@ namespace _1.Code.Managers
             foreach (PolicyCardItem item in cardLst)
             {
                 _policyCards[item.cardInfo.cardType].Add(item);
-            }
+            }   
         }
-
-        public List<PolicyCardItem> GetPolicyCard(HUDTypes type)
-        {
-            return _policyCards.GetValueOrDefault(type);
-        }
+        
+        public List<PolicyCardItem> GetPolicyCard(HUDTypes type) => _policyCards.GetValueOrDefault(type);
     }
 }

@@ -84,6 +84,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6183100744588873872}
+  - component: {fileID: -2547540945626773667}
   m_Layer: 5
   m_Name: CO2Card
   m_TagString: Untagged
@@ -106,11 +107,27 @@ RectTransform:
   - {fileID: 4185951194771788652}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -110}
+  m_SizeDelta: {x: 160, y: 200}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &-2547540945626773667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8949883556728467711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8f58b173404bf098d3e0bfffc8f05c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputSystem: {fileID: 11400000, guid: 89ce4d390f4ef904ea9b0a0b95eb8fa6, type: 2}
+  trm: {fileID: 6183100744588873872}
+  <cardInfo>k__BackingField: {fileID: 0}
+  cardImage: {fileID: 0}
 --- !u!1 &9060022540401955391
 GameObject:
   m_ObjectHideFlags: 0
@@ -146,8 +163,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 25, y: -50}
-  m_SizeDelta: {x: 50, y: 100}
+  m_AnchoredPosition: {x: -10, y: 30}
+  m_SizeDelta: {x: 60, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6608529077706434125
 CanvasRenderer:
