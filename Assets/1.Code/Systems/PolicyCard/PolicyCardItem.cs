@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 namespace _1.Code.Systems.PolicyCard
 {
-    // public delegate bool OnBoolReturnEvent<T>(T , T);
+    public delegate bool OnBoolReturnEvent();
     public class PolicyCardItem : MonoBehaviour, IPointerEnterHandler, IPointerDownHandler, IPointerMoveHandler, IPointerUpHandler
     {
         [SerializeField] private InputSystemSO inputSystem;
@@ -14,9 +14,10 @@ namespace _1.Code.Systems.PolicyCard
         [field : SerializeField] public PolicyCardInfo cardInfo { get; private set; }
         [SerializeField] private Image cardImage;
         
-        
         private bool isSelect;
         private Vector2 _prevPos;
+        
+        public OnBoolReturnEvent onBoolReturn;
         public void OnPointerEnter(PointerEventData eventData)
         {
             Debug.Log("<color=yellow>선택 가능</color>");
@@ -25,8 +26,9 @@ namespace _1.Code.Systems.PolicyCard
         public void OnPointerDown(PointerEventData eventData)
         {
             Debug.Log("<color=blue>선택</color>");
+            onBoolReturn?.Invoke();
             _prevPos = trm.position;
-            OnPointerEnterEvent.AddListener(CheckBool);
+            
         }
 
         public void OnPointerMove(PointerEventData eventData)
