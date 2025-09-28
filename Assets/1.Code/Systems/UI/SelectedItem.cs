@@ -11,6 +11,7 @@ namespace _1.Code.Systems.UI
         private Canvas rootCanvas;
         
         private Vector2 _prevPos;
+        private ISelectAble _selectItem;
 
         private bool _isSelect;
         private Transform _originParent;
@@ -24,6 +25,7 @@ namespace _1.Code.Systems.UI
         public void Initialize()
         {
             rootCanvas = transform.root.GetComponent<Canvas>();
+            _selectItem = GetComponent<ISelectAble>();
             _originParent = transform.parent;
             _originIndex = transform.GetSiblingIndex();
         }
@@ -36,6 +38,7 @@ namespace _1.Code.Systems.UI
         public void OnPointerDown(PointerEventData eventData)
         {
             _isSelect = true;
+            _selectItem.Select();
             //Debug.Log("<color=blue>선택</color>");
             transform.SetParent(rootCanvas.transform, worldPositionStays: true);
             _prevPos = transform.position;

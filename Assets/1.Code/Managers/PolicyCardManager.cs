@@ -6,13 +6,13 @@ using UnityEngine;
 
 namespace _1.Code.Managers
 {
-    public class PolicyCardManager : MonoBehaviour
+    public class PolicyCardManager : MonoBehaviour, IPolicyCard
     {
         [SerializeField] private HUDManager hud;
         
         private Dictionary<HUDTypes, List<PolicyCardItem>> _policyCards;
 
-        [SerializeField] private PolicyCardItem currentCard;
+        [SerializeField] private PolicyCardInfo currentCardInfo;
         
         private void Awake()
         {
@@ -35,11 +35,13 @@ namespace _1.Code.Managers
 
         public void UsePolicyCard()
         {
-            foreach (var data in currentCard.cardInfo.datas)
+            foreach (var data in currentCardInfo.datas)
             { 
                 HUD type = hud.GetHUD(data.valueType);
                 type.HUDDeltaCalc(data.value);
             }
         }
+
+        public void SetPolicyCard(PolicyCardInfo info) => currentCardInfo = info;
     }
 }

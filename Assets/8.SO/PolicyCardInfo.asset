@@ -16,4 +16,8 @@ MonoBehaviour:
   cardDescription: 
   cardType: 0
   cardImage: {fileID: 0}
-  datas: []
+  datas:
+  - valueType: 0
+    value: 0
+  - valueType: 0
+    value: 0
