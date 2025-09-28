@@ -85,6 +85,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6183100744588873872}
   - component: {fileID: -2547540945626773667}
+  - component: {fileID: -1803865730520471921}
   m_Layer: 5
   m_Name: CO2Card
   m_TagString: Untagged
@@ -124,10 +125,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f8f58b173404bf098d3e0bfffc8f05c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputSystem: {fileID: 11400000, guid: 89ce4d390f4ef904ea9b0a0b95eb8fa6, type: 2}
-  trm: {fileID: 6183100744588873872}
   <cardInfo>k__BackingField: {fileID: 0}
   cardImage: {fileID: 0}
+--- !u!114 &-1803865730520471921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8949883556728467711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0598121b0e44ae399d08c78f28795d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputSystem: {fileID: 0}
+  seleteManager: {fileID: 0}
+  trm: {fileID: 0}
 --- !u!1 &9060022540401955391
 GameObject:
   m_ObjectHideFlags: 0
