@@ -1,12 +1,15 @@
 ﻿using System.Collections.Generic;
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
+using _1.Code.Systems.UI;
 using UnityEngine;
 
 namespace _1.Code.Managers
 {
     public class PolicyCardManager : MonoBehaviour
     {
+        [SerializeField] private HUDManager hud;
+        
         private Dictionary<HUDTypes, List<PolicyCardItem>> _policyCards;
 
         [SerializeField] private PolicyCardItem currentCard;
@@ -25,9 +28,18 @@ namespace _1.Code.Managers
             foreach (PolicyCardItem item in cardLst)
             {
                 _policyCards[item.cardInfo.cardType].Add(item);
-            }   
+            }
         }
-        
+
         public List<PolicyCardItem> GetPolicyCard(HUDTypes type) => _policyCards.GetValueOrDefault(type);
+
+        public void UsePolicyCard()
+        {
+            foreach (var data in currentCard.cardInfo.datas)
+            { 
+                HUD type = hud.GetHUD(data.valueType);
+                type.HUDDeltaCalc(data.value);
+            }
+        }
     }
 }

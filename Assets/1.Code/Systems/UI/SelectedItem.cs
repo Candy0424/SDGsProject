@@ -8,7 +8,7 @@ namespace _1.Code.Systems.UI
     public class SelectedItem : MonoBehaviour, IPointerEnterHandler, IPointerDownHandler, IPointerMoveHandler,
         IPointerUpHandler, IPointerExitHandler
     {
-        [SerializeField] private Canvas rootCanvas;
+        private Canvas rootCanvas;
         
         private Vector2 _prevPos;
 
@@ -18,19 +18,25 @@ namespace _1.Code.Systems.UI
 
         private void Start()
         {
+            Initialize();
+        }
+
+        public void Initialize()
+        {
+            rootCanvas = transform.root.GetComponent<Canvas>();
             _originParent = transform.parent;
             _originIndex = transform.GetSiblingIndex();
         }
-
+        
         public void OnPointerEnter(PointerEventData eventData)
         {
-            Debug.Log("<color=yellow>선택 가능</color>");
+            //Debug.Log("<color=yellow>선택 가능</color>");
         }
 
         public void OnPointerDown(PointerEventData eventData)
         {
             _isSelect = true;
-            Debug.Log("<color=blue>선택</color>");
+            //Debug.Log("<color=blue>선택</color>");
             transform.SetParent(rootCanvas.transform, worldPositionStays: true);
             _prevPos = transform.position;
         }
@@ -46,7 +52,7 @@ namespace _1.Code.Systems.UI
 
         public void OnPointerUp(PointerEventData eventData)
         {
-            Debug.Log("<color=green>선택 해제</color>");
+            //Debug.Log("<color=green>선택 해제</color>");
             transform.SetParent(_originParent, worldPositionStays: true);
             transform.SetSiblingIndex(_originIndex);
             transform.position = _prevPos;
@@ -58,7 +64,7 @@ namespace _1.Code.Systems.UI
             if (_isSelect)
             {
                 _isSelect = false;
-                Debug.Log("<color=red>선택 범위 이탈</color>");
+                //Debug.Log("<color=red>선택 범위 이탈</color>");
             }
         }
     }

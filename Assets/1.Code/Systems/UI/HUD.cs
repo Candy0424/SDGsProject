@@ -17,12 +17,13 @@ namespace _1.Code.Systems.UI
         [SerializeField] private float maxValue = 100f;
         [SerializeField] private float minValue = 0f;
         [SerializeField] private float duration = 0.5f;
+        [SerializeField] private bool isNegative = false;
 
         [Space, Header("DeltaSettings")]
         [SerializeField] private float minMinusValue = 1f;
         [SerializeField] private float maxMinusValue = 10f;
         [SerializeField] protected float valueMultiplier = 1f;
-        
+
         
         private Slider _hudGage;
 
@@ -63,7 +64,7 @@ namespace _1.Code.Systems.UI
             
             _hudGage.maxValue = maxValue;
             _hudGage.minValue = minValue;
-            _hudGage.value = maxValue;
+            _hudGage.value = isNegative ? .0f : maxValue;
         }
 
         private void OnDestroy()
@@ -81,13 +82,20 @@ namespace _1.Code.Systems.UI
         public void TurnInit()
         {
             float value = (Random.Range(minMinusValue, maxMinusValue)) * valueMultiplier;
-            HUDValue -= value;
+            if (isNegative)
+                HUDValue += value;
+            else
+                HUDValue -= value;
         }
 
         public void TurnEnd()
         {
         }
 
-        public void HUDDeltaCalc(float value) => valueMultiplier += value;
+        public void HUDDeltaCalc(float value)
+        {
+            if (isNegative) value = -value;
+            valueMultiplier += value;
+        }
     }
 }
