@@ -17,12 +17,12 @@ namespace _1.Code.Managers
         
         [SerializeField] private List<PolicyCardItem> items;
 
-        private Dictionary<PolicyCardInfo, PolicyCardItem> _recordCard;
+        private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
 
         private void Awake()
         {
             items = new List<PolicyCardItem>();
-            _recordCard = new Dictionary<PolicyCardInfo, PolicyCardItem>();
+            _recordCard = new Dictionary<PolicyCardInfo, Stack<PolicyCardItem>>();
         }
 
         public void TurnInit()
@@ -34,12 +34,18 @@ namespace _1.Code.Managers
         {
             if (items.Count > 0)
             {
-                items.Clear();
-                for (int i = 0; i < transform.childCount; i++)
+                foreach (var item in items)
                 {
-                    transform.GetChild(i).gameObject.SetActive(false);
+                    item.gameObject.SetActive(false);
+                    if (!_recordCard.ContainsKey(item.CardInfo))
+                    {
+                        _recordCard.Add(item.CardInfo, new Stack<PolicyCardItem>());
+                    }
+                    _recordCard[item.CardInfo].Push(item);
                 }
+                items.Clear();
             }
+            
             for (int i = 0; i < cardNum; i++)
             {
                 int idx = Random.Range(0, cardArr.Length);
@@ -51,15 +57,19 @@ namespace _1.Code.Managers
                     return;
                 }
 
-                if (_recordCard.ContainsKey(cardArr[idx]))
+                if (_recordCard.ContainsKey(cardArr[idx]) && _recordCard[cardArr[idx]].Count > 0)
                 {
-                    _recordCard[cardArr[idx]].gameObject.SetActive(true);
-                    items.Add(_recordCard[cardArr[idx]].Initialize(cardArr[idx], size));
+                    PolicyCardItem item = _recordCard[cardArr[idx]].Pop();
+                    item.gameObject.SetActive(true);
+                    item.Initialize(cardArr[idx], size);
+                    items.Add(item);
                 }
                 else
                 {
-                    PolicyCardItem item = Instantiate(itemArr[itemIdx], transform).Initialize(cardArr[idx], size);
-                    _recordCard.Add(cardArr[idx], item);
+                    PolicyCardItem item = Instantiate(itemArr[itemIdx], transform);
+                    item.Initialize(cardArr[idx], size);
+                    item.gameObject.SetActive(true);
+                    items.Add(item);
                 }
             }
         }

@@ -23,6 +23,8 @@ namespace _1.Code.Systems.PolicyCard
         
         public Sprite cardImage;
 
+        public int gold;
+
         public List<HUDDatas> datas;
     }
 }
