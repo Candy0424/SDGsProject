@@ -18,7 +18,7 @@ MonoBehaviour:
     \uC548\uC804\uD55C \uC608\uC0B0\uC744 \uD655\uBCF4\uD569\uB2C8\uB2E4."
   cardType: 1
   cardImage: {fileID: -6501865563440637843, guid: 1a1448cea50f459468ad73ea149728eb, type: 3}
-  gold: 200000
+  gold: 450000
   datas:
   - valueType: 1
     value: -6

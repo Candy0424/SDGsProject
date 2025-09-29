@@ -715,8 +715,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cardArr:
-  - {fileID: 11400000, guid: 32ac195afc157414fb13e8f38e8543fd, type: 2}
   - {fileID: 11400000, guid: 3ba7aa5bbb3b64a4a908ff4dda8d9d52, type: 2}
+  - {fileID: 11400000, guid: 0b0f76165ca77224f9df78f6f3991505, type: 2}
+  - {fileID: 11400000, guid: 3a69aa9dd8ae8ea4d8d72af52b59e429, type: 2}
+  - {fileID: 11400000, guid: 0b0f76165ca77224f9df78f6f3991505, type: 2}
+  - {fileID: 11400000, guid: 32ac195afc157414fb13e8f38e8543fd, type: 2}
+  - {fileID: 11400000, guid: 741754c59c791e74897e9e1353de8ade, type: 2}
+  - {fileID: 11400000, guid: 837ed0dc8652eef4287d14c85f141c08, type: 2}
+  - {fileID: 11400000, guid: cf75a31739b977d4e92c02981a587dfe, type: 2}
+  - {fileID: 11400000, guid: dfe9e25ea57e612469f43a72b694fb22, type: 2}
   cardNum: 4
   itemArr:
   - {fileID: -2547540945626773667, guid: bb9688af22b0bf54db7375ab513b6f46, type: 3}
