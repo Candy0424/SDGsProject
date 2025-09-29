@@ -9,20 +9,23 @@ namespace _1.Code.Systems.PolicyCard
 {
     public class PolicyCardItem : MonoBehaviour, ISelectAble
     {
-        [field : SerializeField] public PolicyCardInfo cardInfo { get; private set; }
+        [field : SerializeField] public PolicyCardInfo CardInfo { get; private set; }
         [SerializeField] private Image cardImage;
 
         private IPolicyCard _card;
 
-        public void Initialize()
+        public PolicyCardItem Initialize(PolicyCardInfo info, float size)
         {
-            cardImage.sprite = cardInfo.cardImage;
+            CardInfo = info;
+            cardImage.sprite = CardInfo.cardImage;
             _card = GetComponentInParent<IPolicyCard>();
+            transform.localScale = new Vector3(size, size, size);
+            return this;
         }
         
         public void Select()
         {
-            _card.SetPolicyCard(cardInfo);
+            _card.SetPolicyCard(CardInfo);
         }
     }
 }

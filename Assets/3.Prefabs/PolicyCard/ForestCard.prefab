@@ -201,8 +201,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f8f58b173404bf098d3e0bfffc8f05c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <cardInfo>k__BackingField: {fileID: 0}
-  cardImage: {fileID: 0}
+  <CardInfo>k__BackingField: {fileID: 0}
+  cardImage: {fileID: 1786047275418295287}
 --- !u!114 &5941280722176002972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,6 +215,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0598121b0e44ae399d08c78f28795d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputSystem: {fileID: 0}
-  seleteManager: {fileID: 0}
-  trm: {fileID: 0}

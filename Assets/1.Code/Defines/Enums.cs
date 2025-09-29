@@ -7,7 +7,8 @@ namespace _1.Code.Defines
         None = 0,
         Co2 = 1, 
         Forest = 2, 
-        IceProtection = 4, 
-        OceanHealth = 8,
+        IceProtection = 3, 
+        OceanHealth = 4,
+        Gold = 5,
     }
 }
