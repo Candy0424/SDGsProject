@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26bee57936844dba2f8a45dcdec6bd1, type: 3}
+  m_Name: TreeBurningProtect
+  m_EditorClassIdentifier: 
+  cardName: "\uC0B0\uBD88 \uC9C4\uD654 \uD504\uB85C\uADF8\uB7A8"
+  cardDescription: "\uC0B0\uBD88 \uC9C4\uD654\uB97C \uD1B5\uD574 \uD654\uC81C\uB85C
+    \uC778\uD55C \uD0C4\uC18C \uBC30\uCD9C\uC744 \uC5B5\uC81C\uD558\uACE0 \uC232
+    \uBCF4\uC874\uC744 \uAC15\uD654\uD558\uC9C0\uB9CC, \uC7AC\uC815 \uC720\uC9C0\uAC00
+    \uD544\uC694\uD569\uB2C8\uB2E4."
+  cardType: 2
+  cardImage: {fileID: 8243733405685655091, guid: 1f96f933289252c4c9182881f40f20d3, type: 3}
+  gold: 230000
+  datas:
+  - valueType: 1
+    value: -2
+  - valueType: 2
+    value: 5
+  - valueType: 5
+    value: -2

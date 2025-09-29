@@ -1,9 +1,7 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.UI;
-using Unity.VisualScripting;
 using UnityEngine;
 
 namespace _1.Code.Managers
@@ -13,21 +11,22 @@ namespace _1.Code.Managers
         public int cardNum;
         public PolicyCardInfo item;
     }
+
     public class PolicyCardManager : MonoBehaviour, IPolicyCard
     {
         [SerializeField] private GoldAmount goldAmount;
         [SerializeField] private HUDManager hud;
-        
-        private Dictionary<HUDTypes, List<PolicyCardInfo>>_policyCards;
+
+        private Dictionary<HUDTypes, List<PolicyCardInfo>> _policyCards;
         private Dictionary<HUDTypes, List<CardInfoData>> _policyItems;
-        
+
         [SerializeField] private PolicyCardInfo currentCardInfo;
-        
+
         private void Awake()
         {
             _policyCards = new Dictionary<HUDTypes, List<PolicyCardInfo>>();
             _policyItems = new Dictionary<HUDTypes, List<CardInfoData>>();
-            
+
             Initialize();
         }
 
@@ -39,12 +38,12 @@ namespace _1.Code.Managers
                 _policyItems.Add((HUDTypes)i, new List<CardInfoData>());
             }
         }
-        
-            void AddCard(PolicyCardInfo info)
+
+        void AddCard(PolicyCardInfo info)
         {
             HUDTypes type = (HUDTypes)info.cardType;
             List<PolicyCardInfo> l = _policyCards[type];
-            
+
             if (l.Contains(info))
             {
                 int idx = _policyCards[type].IndexOf(info);
@@ -61,6 +60,7 @@ namespace _1.Code.Managers
                 _policyItems[type].Add(infoData);
             }
         }
+
         private void RemoveCard(PolicyCardInfo info)
         {
             HUDTypes type = (HUDTypes)info.cardType;
@@ -76,7 +76,7 @@ namespace _1.Code.Managers
                     _policyCards[type].Remove(info);
                     _policyItems[type].RemoveAt(idx);
                 }
-                else 
+                else
                     _policyItems[type][idx] = infoData;
             }
         }
@@ -92,10 +92,11 @@ namespace _1.Code.Managers
                     goldAmount.AmountCalc(data.value);
                     continue;
                 }
-                    
+
                 HUD type = hud.GetHUD(data.valueType);
                 type.HUDDeltaCalc(data.value);
             }
+
             RemoveCard(currentCardInfo);
         }
 

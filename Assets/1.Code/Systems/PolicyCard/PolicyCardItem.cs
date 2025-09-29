@@ -38,6 +38,7 @@ namespace _1.Code.Systems.PolicyCard
                 string v = data.value.ToString();
                 str += v + "   ";
             }
+            deltaValueText.text = str;
             goldText.text = info.gold.ToString() + '$';
             return this;
         }

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26bee57936844dba2f8a45dcdec6bd1, type: 3}
+  m_Name: ReEnergy
+  m_EditorClassIdentifier: 
+  cardName: "\uC7AC\uC0DD\uC5D0\uB108\uC9C0 \uD22C\uC790"
+  cardDescription: "\uD654\uC11D\uC5F0\uB8CC\uB97C \uB300\uCCB4\uD558\uACE0 \uB300\uAE30
+    \uC624\uC5FC\uC744 \uAC10\uC18C\uC2DC\uD0A4\uBA70, \uC7AC\uC0DD\uC5D0\uB108\uC9C0
+    \uC0B0\uC5C5\uC744 \uC131\uC7A5\uC2DC\uCF1C \uC138\uAE08\uC744 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+  cardType: 1
+  cardImage: {fileID: -952617344588564097, guid: 69f461133acb80640bb8b0aa66fcf967, type: 3}
+  gold: 400000
+  datas:
+  - valueType: 1
+    value: -8
+  - valueType: 4
+    value: 1
+  - valueType: 5
+    value: 3

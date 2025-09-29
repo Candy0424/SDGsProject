@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26bee57936844dba2f8a45dcdec6bd1, type: 3}
+  m_Name: AbolitionTaxNo
+  m_EditorClassIdentifier: 
+  cardName: "\uD654\uC11D\uC5F0\uB8CC \uBCF4\uC870\uAE08 \uD3D0\uC9C0"
+  cardDescription: "\uD654\uC11D\uC5F0\uB8CC \uAC00\uACA9\uC744 \uC99D\uAC00\uC2DC\uCF1C
+    \uC0AC\uC6A9\uB7C9\uC744 \uAC10\uC18C \uC2DC\uD0A4\uACE0, \uC7AC\uC815 \uC5EC\uB825\uC744
+    \uD655\uB300 \uC2DC\uD0B5\uB2C8\uB2E4."
+  cardType: 1
+  cardImage: {fileID: -6946036157184631782, guid: 01fc1339d4d788c41baf8f0576cae901, type: 3}
+  gold: 350000
+  datas:
+  - valueType: 1
+    value: -7
+  - valueType: 5
+    value: 4

@@ -17,10 +17,10 @@ MonoBehaviour:
     \uD65C\uB3D9\uC744 \uC5B5\uC81C\uC2DC\uD0A4\uACE0 \uC138\uAE08 \uC815\uCC45\uC73C\uB85C
     \uC548\uC804\uD55C \uC608\uC0B0\uC744 \uD655\uBCF4\uD569\uB2C8\uB2E4."
   cardType: 1
-  cardImage: {fileID: -8415504546778074330, guid: cce2edb437865ac45b34a7d931f69ec6, type: 3}
-  gold: 1
+  cardImage: {fileID: -6501865563440637843, guid: 1a1448cea50f459468ad73ea149728eb, type: 3}
+  gold: 200000
   datas:
   - valueType: 1
-    value: 6
+    value: -6
   - valueType: 5
-    value: -5
+    value: 5
