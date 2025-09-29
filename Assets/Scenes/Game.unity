@@ -724,6 +724,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 837ed0dc8652eef4287d14c85f141c08, type: 2}
   - {fileID: 11400000, guid: cf75a31739b977d4e92c02981a587dfe, type: 2}
   - {fileID: 11400000, guid: dfe9e25ea57e612469f43a72b694fb22, type: 2}
+  - {fileID: 11400000, guid: 8756fda8cf58cb540ad045ef05a412d6, type: 2}
+  - {fileID: 11400000, guid: e41e12372decfa94686eae6baa06fcc2, type: 2}
   cardNum: 4
   itemArr:
   - {fileID: -2547540945626773667, guid: bb9688af22b0bf54db7375ab513b6f46, type: 3}
