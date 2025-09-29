@@ -8,7 +8,8 @@ namespace _1.Code.Managerrs
 {
     public class TurnManager : MonoBehaviour
     {
-        public Action OnTurnChangeEvent;
+        public Action OnTurnStartEvent;
+        public Action OnTurnEndEvent;
 
         private List<ITurnAble> _turnLst;
 
@@ -21,17 +22,30 @@ namespace _1.Code.Managerrs
         {
             _turnLst = GetComponentsInChildren<ITurnAble>().ToList();
             
-            _turnLst.ForEach(turn => OnTurnChangeEvent += turn.TurnInit);
+            _turnLst.ForEach(turn =>
+            {
+                OnTurnStartEvent += turn.TurnInit;
+                OnTurnEndEvent += turn.TurnEnd;
+            });
         }
 
         private void OnDestroy()
         {
-            _turnLst.ForEach(turn => OnTurnChangeEvent -= turn.TurnInit);
+            _turnLst.ForEach(turn =>
+            {
+                OnTurnStartEvent -= turn.TurnInit;
+                OnTurnEndEvent -= turn.TurnEnd;
+            });
         }
 
-        public void HandleTurnChange()
+        public void HandleTurnStart()
         {
-            OnTurnChangeEvent?.Invoke();
+            OnTurnStartEvent?.Invoke();
+        }
+
+        public void HandleTurnEnd()
+        {
+            OnTurnEndEvent?.Invoke();
         }
     }
 }

@@ -16,8 +16,9 @@ MonoBehaviour:
   cardDescription: "\uD14C\uC2A4\u3161\u314C \uC232\n"
   cardType: 2
   cardImage: {fileID: -8415504546778074330, guid: cce2edb437865ac45b34a7d931f69ec6, type: 3}
+  gold: 2
   datas:
   - valueType: 2
     value: 2
   - valueType: 3
-    value: 2
+    value: -2

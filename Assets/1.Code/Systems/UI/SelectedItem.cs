@@ -1,4 +1,6 @@
 ﻿using System;
+using DG.Tweening;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
@@ -8,6 +10,9 @@ namespace _1.Code.Systems.UI
     public class SelectedItem : MonoBehaviour, IPointerEnterHandler, IPointerDownHandler, IPointerMoveHandler,
         IPointerUpHandler, IPointerExitHandler
     {
+        [SerializeField] private float sizeUpValue;
+        [SerializeField] private float duration;
+        
         private Canvas rootCanvas;
         
         private Vector2 _prevPos;
@@ -16,7 +21,10 @@ namespace _1.Code.Systems.UI
         private bool _isSelect;
         private Transform _originParent;
         private int _originIndex;
+        private Vector3 _originSize;
 
+        private Tween _tween;
+        
         private void Start()
         {
             Initialize();
@@ -29,10 +37,22 @@ namespace _1.Code.Systems.UI
             _originParent = transform.parent;
             _originIndex = transform.GetSiblingIndex();
         }
-        
+
+        public void OnEnable()
+        {
+            _originSize = transform.localScale;
+        }
+
+        private void OnDisable()
+        {
+            transform.localScale = _originSize;
+        }
+
         public void OnPointerEnter(PointerEventData eventData)
         {
             //Debug.Log("<color=yellow>선택 가능</color>");
+            _tween = transform.DOScale(new Vector3(sizeUpValue, sizeUpValue, sizeUpValue)
+                , duration).SetEase(Ease.OutElastic);
         }
 
         public void OnPointerDown(PointerEventData eventData)
@@ -67,8 +87,8 @@ namespace _1.Code.Systems.UI
             if (_isSelect)
             {
                 _isSelect = false;
-                //Debug.Log("<color=red>선택 범위 이탈</color>");
             }
+            _tween = transform.DOScale(_originSize, duration).SetEase(Ease.OutElastic);
         }
     }
 }

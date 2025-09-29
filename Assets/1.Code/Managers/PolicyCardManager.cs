@@ -15,6 +15,7 @@ namespace _1.Code.Managers
     }
     public class PolicyCardManager : MonoBehaviour, IPolicyCard
     {
+        [SerializeField] private GoldAmount goldAmount;
         [SerializeField] private HUDManager hud;
         
         private Dictionary<HUDTypes, List<PolicyCardInfo>>_policyCards;
@@ -86,6 +87,12 @@ namespace _1.Code.Managers
         {
             foreach (var data in currentCardInfo.datas)
             {
+                if (data.valueType == HUDTypes.Gold)
+                {
+                    goldAmount.AmountCalc(data.value);
+                    continue;
+                }
+                    
                 HUD type = hud.GetHUD(data.valueType);
                 type.HUDDeltaCalc(data.value);
             }

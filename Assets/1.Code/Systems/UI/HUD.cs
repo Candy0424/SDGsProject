@@ -94,7 +94,6 @@ namespace _1.Code.Systems.UI
 
         public void HUDDeltaCalc(float value)
         {
-            if (isNegative) value = -value;
             valueMultiplier += value;
         }
     }

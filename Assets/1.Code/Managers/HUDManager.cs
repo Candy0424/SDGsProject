@@ -8,8 +8,7 @@ using UnityEngine;
 namespace _1.Code.Managers
 {
     public class HUDManager : MonoBehaviour
-    {
-        private Dictionary<HUDTypes, HUD> _hudTypeDict;
+    { private Dictionary<HUDTypes, HUD> _hudTypeDict;
 
         private void Awake()
         {

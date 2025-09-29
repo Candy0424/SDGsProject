@@ -60,8 +60,8 @@ namespace _1.Code.Managers
                 if (_recordCard.ContainsKey(cardArr[idx]) && _recordCard[cardArr[idx]].Count > 0)
                 {
                     PolicyCardItem item = _recordCard[cardArr[idx]].Pop();
-                    item.gameObject.SetActive(true);
                     item.Initialize(cardArr[idx], size);
+                    item.gameObject.SetActive(true);
                     items.Add(item);
                 }
                 else
