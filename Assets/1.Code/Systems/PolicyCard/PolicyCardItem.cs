@@ -45,7 +45,6 @@ namespace _1.Code.Systems.PolicyCard
         
         public void Select()
         {
-            Debug.Log(_card);
             _card.SetPolicyCard(CardInfo);
         }
 

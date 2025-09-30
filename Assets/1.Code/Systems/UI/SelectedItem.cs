@@ -1,19 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
+using UnityEngine.UI;
 
 namespace _1.Code.Systems.UI
 {
     public class SelectedItem : MonoBehaviour, IPointerEnterHandler, IPointerDownHandler, IPointerMoveHandler,
         IPointerUpHandler, IPointerExitHandler
     {
+        [SerializeField] private LayerMask whatIsBuyZone;
         [SerializeField] private float sizeUpValue;
         [SerializeField] private float duration;
         
         private Canvas rootCanvas;
+        private GraphicRaycaster _raycaster;
         
         private Vector2 _prevPos;
         private ISelectAble _selectItem;
@@ -33,6 +37,7 @@ namespace _1.Code.Systems.UI
         public void Initialize()
         {
             rootCanvas = transform.root.GetComponent<Canvas>();
+            _raycaster = rootCanvas.GetComponent<GraphicRaycaster>();
             _selectItem = GetComponent<ISelectAble>();
             _originParent = transform.parent;
             _originIndex = transform.GetSiblingIndex();
@@ -76,6 +81,20 @@ namespace _1.Code.Systems.UI
         public void OnPointerUp(PointerEventData eventData)
         {
             //Debug.Log("<color=green>선택 해제</color>");
+            
+            List<RaycastResult> l = new List<RaycastResult>();
+            _raycaster.Raycast(eventData, l);
+
+            foreach (RaycastResult r in l)
+            {
+                int layer = r.gameObject.layer;
+
+                if ((whatIsBuyZone.value & (1 << layer)) != 0)
+                {
+                    Debug.Log("가능");
+                }
+            }
+            
             transform.SetParent(_originParent, worldPositionStays: true);
             transform.SetSiblingIndex(_originIndex);
             transform.position = _prevPos;

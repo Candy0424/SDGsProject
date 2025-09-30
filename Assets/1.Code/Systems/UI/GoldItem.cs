@@ -34,7 +34,6 @@ namespace _1.Code.Systems.UI
         private void GetGold()
         {
             float value = _goldAmount.CurrentGoldAmount / 100f;
-            Debug.Log(value);
             currentGold += Mathf.CeilToInt(getGoldValue * value);
         }
 
@@ -42,7 +41,7 @@ namespace _1.Code.Systems.UI
 
         public void UpdateGold()
         {
-            goldText.text = currentGold.ToString() + "원";
+            goldText.text = currentGold.ToString() + "$";
         }
 
         public void TurnEnd()

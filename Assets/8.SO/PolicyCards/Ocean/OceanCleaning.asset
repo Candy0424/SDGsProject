@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e26bee57936844dba2f8a45dcdec6bd1, type: 3}
+  m_Name: OceanCleaning
+  m_EditorClassIdentifier: 
+  cardName: "\uD574\uC591 \uCCAD\uC18C \uD504\uB85C\uC81D\uD2B8"
+  cardDescription: "\uD574\uC591 \uCCAD\uC18C \uD504\uB85C\uC81D\uD2B8\uB85C \uD3D0\uAE30\uBB3C
+    \uC18C\uAC01 \uAD00\uB9AC\uB97C \uD6A8\uC728\uD654 \uC2DC\uD0A4\uACE0 \uC4F0\uB808\uAE30
+    \uC81C\uAC70\uB85C \uC0DD\uD0DC\uACC4\uB97C \uAC1C\uC120\uD558\uC9C0\uB9CC \uC720\uC9C0\uBE44\uAC00
+    \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  cardType: 4
+  cardImage: {fileID: 9108433957828428528, guid: fecf12979891a604d981a9edab7d2f72, type: 3}
+  gold: 300000
+  datas:
+  - valueType: 1
+    value: -2
+  - valueType: 4
+    value: 7
+  - valueType: 5
+    value: -3
