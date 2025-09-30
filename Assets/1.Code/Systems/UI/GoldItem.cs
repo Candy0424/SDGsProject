@@ -41,7 +41,7 @@ namespace _1.Code.Systems.UI
         
         private int GetCalcGold() => Mathf.CeilToInt((_goldAmount.CurrentGoldAmount / 100f) * getGoldValue);
 
-        private void GoldCalc(int gold)
+        public void GoldCalc(int gold)
         { 
             currentGold += gold;
             UpdateGold();
@@ -70,10 +70,6 @@ namespace _1.Code.Systems.UI
             {
                 return false;
             }
-
-            int price = itemCardInfo.gold;
-            
-            GoldCalc(-price);
             return true;
         }
     }

@@ -95,7 +95,6 @@ namespace _1.Code.Systems.UI
                 if ((whatIsBuyZone.value & (1 << layer)) != 0)
                 {
                     OnInteractEvent?.Invoke();
-                    Debug.Log("가능");
                 }
             }
             

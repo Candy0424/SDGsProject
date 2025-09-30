@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using _1.Code.Systems.PolicyCard;
+using _1.Code.Managers;
 using _1.Code.Systems.Turn;
 using _1.Code.Systems.UI;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
-namespace _1.Code.Managers
+namespace _1.Code.Systems.PolicyCard
 {
-    public class PolicyCardShopManager : MonoBehaviour, ITurnAble
+    public class PolicyCardShop : MonoBehaviour, ITurnAble
     {
+        [SerializeField] private PolicyCardManager policyCardManager;
+        
         [SerializeField] private GoldItem goldItem;
         [SerializeField] private PolicyCardInfo[] cardArr;
         [SerializeField] private int cardNum;
@@ -20,7 +21,7 @@ namespace _1.Code.Managers
         [SerializeField] private float size;
         
         [SerializeField] private List<PolicyCardItem> items;
-
+        
         private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
 
         private void Awake()
@@ -76,14 +77,17 @@ namespace _1.Code.Managers
 
         public void BuyItem(PolicyCardItem item)
         {
-            if (goldItem.CanBuyGoldCheck(item.CardInfo))
+            if (policyCardManager.IsInRange() && goldItem.CanBuyGoldCheck(item.CardInfo))
             {
+                int price = item.CardInfo.gold;
+                goldItem.GoldCalc(-price);
                 RecordCard(item);
+                items.Remove(item);
                 item.OnBuyEvent -= BuyItem;
                 OnBuyEvent?.Invoke(item);
             }
         }
-
+        
         private void RecordCard(PolicyCardItem item)
         {
             item.gameObject.SetActive(false);

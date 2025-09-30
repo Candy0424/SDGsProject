@@ -514,7 +514,7 @@ GameObject:
   - component: {fileID: 359865815}
   - component: {fileID: 359865814}
   m_Layer: 6
-  m_Name: TestPanel
+  m_Name: InteractPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -666,6 +666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b184d0585a704396abe5167903cd7e0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  policyCardManager: {fileID: 2101877025}
   goldItem: {fileID: 1471388719}
   cardArr:
   - {fileID: 11400000, guid: 3ba7aa5bbb3b64a4a908ff4dda8d9d52, type: 2}
@@ -2326,6 +2327,7 @@ MonoBehaviour:
   hud: {fileID: 954983774}
   currentCardInfo: {fileID: 0}
   cardHolder: {fileID: 170050599}
+  maxCardNum: 9
 --- !u!1 &2119219747
 GameObject:
   m_ObjectHideFlags: 0

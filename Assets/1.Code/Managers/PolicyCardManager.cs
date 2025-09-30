@@ -4,6 +4,7 @@ using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.UI;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace _1.Code.Managers
 {
@@ -24,8 +25,11 @@ namespace _1.Code.Managers
         [SerializeField] private PolicyCardInfo currentCardInfo;
         [SerializeField] private Transform cardHolder;
 
+        [SerializeField] private int maxCardNum;
+        private int _currentCardNum;
+        
         private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
-
+        
         private void Awake()
         {
             _policyCards = new Dictionary<HUDTypes, List<PolicyCardInfo>>();
@@ -69,6 +73,8 @@ namespace _1.Code.Managers
             RecordCard(item);
         }
 
+        public bool IsInRange() => _currentCardNum < maxCardNum;
+
         private void RecordCard(PolicyCardItem item)
         {
             item.gameObject.SetActive(false);
@@ -100,6 +106,7 @@ namespace _1.Code.Managers
                 infoData.item = info;
                 _policyItems[type].Add(infoData);
             }
+            _currentCardNum++;
         }
 
         private void RemoveCard(PolicyCardInfo info)
@@ -126,6 +133,7 @@ namespace _1.Code.Managers
 
         private void UsePolicyCard()
         {
+            _currentCardNum--;
             foreach (var data in currentCardInfo.datas)
             {
                 if (data.valueType == HUDTypes.Gold)
