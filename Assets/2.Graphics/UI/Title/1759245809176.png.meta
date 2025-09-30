@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6087058105f94154188b73fba5fbc710
+guid: 9333b83c92caf864dbc0148fde7be5f8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7530376868177006394
-    second: goodEarth_resized_keep_ratio_0
+      213: 8379862317554467313
+    second: 1759245809176_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goodEarth_resized_keep_ratio_0
+      name: 1759245809176_0
       rect:
         serializedVersion: 2
-        x: 275
-        y: 105
-        width: 718
-        height: 652
+        x: 0
+        y: 0
+        width: 1024
+        height: 576
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 200, y: 200, z: 200, w: 200}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a3f428c2dd5418860800000000000000
-      internalID: 7530376868177006394
+      spriteID: 1f1048021604b4470800000000000000
+      internalID: 8379862317554467313
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7d3a9ae43063f6142b27e6b87b8475de
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      goodEarth_resized_keep_ratio_0: 7530376868177006394
+      1759245809176_0: 8379862317554467313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

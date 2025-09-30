@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: abbd587317f13af41bd72ec06a5eb280
+guid: 167c0d7a8cd0d254a9d6b2e0d71b626f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -410048850103040332
-    second: goodEarth_0
+      213: -4073069538331880858
+    second: Earth_transparent_1280x853 (1)_0
+  - first:
+      213: 6407554142796191039
+    second: Earth_transparent_1280x853 (1)_1
+  - first:
+      213: -294443260460430801
+    second: Earth_transparent_1280x853 (1)_2
+  - first:
+      213: -92092526206722100
+    second: Earth_transparent_1280x853 (1)_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goodEarth_0
+      name: Earth_transparent_1280x853 (1)_3
       rect:
         serializedVersion: 2
-        x: 131
-        y: 49
-        width: 345
-        height: 313
+        x: 278
+        y: 65
+        width: 723
+        height: 716
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b60d0d4eb63f4af0800000000000000
-      internalID: -410048850103040332
+      spriteID: ccfdaf8d552d8bef0800000000000000
+      internalID: -92092526206722100
       vertices: []
       indices: 
       edges: []
@@ -138,7 +147,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dd794e4b8cf4bae42a203e2905b6dda9
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +157,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      goodEarth_0: -410048850103040332
+      Earth_transparent_1280x853 (1)_0: -4073069538331880858
+      Earth_transparent_1280x853 (1)_1: 6407554142796191039
+      Earth_transparent_1280x853 (1)_2: -294443260460430801
+      Earth_transparent_1280x853 (1)_3: -92092526206722100
+      GoodEarth_0: -245720771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
