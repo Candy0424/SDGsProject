@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
@@ -16,7 +17,7 @@ namespace _1.Code.Systems.UI
         [SerializeField] private float sizeUpValue;
         [SerializeField] private float duration;
         
-        private Canvas rootCanvas;
+        private Canvas _rootCanvas;
         private GraphicRaycaster _raycaster;
         
         private Vector2 _prevPos;
@@ -28,6 +29,8 @@ namespace _1.Code.Systems.UI
         private Vector3 _originSize;
 
         private Tween _tween;
+
+        public UnityEvent OnInteractEvent;
         
         private void Start()
         {
@@ -36,8 +39,8 @@ namespace _1.Code.Systems.UI
 
         public void Initialize()
         {
-            rootCanvas = transform.root.GetComponent<Canvas>();
-            _raycaster = rootCanvas.GetComponent<GraphicRaycaster>();
+            _rootCanvas = transform.root.GetComponent<Canvas>();
+            _raycaster = _rootCanvas.GetComponent<GraphicRaycaster>();
             _selectItem = GetComponent<ISelectAble>();
             _originParent = transform.parent;
             _originIndex = transform.GetSiblingIndex();
@@ -65,7 +68,7 @@ namespace _1.Code.Systems.UI
             _isSelect = true;
             _selectItem.Select();
             //Debug.Log("<color=blue>선택</color>");
-            transform.SetParent(rootCanvas.transform, worldPositionStays: true);
+            transform.SetParent(_rootCanvas.transform, worldPositionStays: true);
             _prevPos = transform.position;
         }
 
@@ -91,6 +94,7 @@ namespace _1.Code.Systems.UI
 
                 if ((whatIsBuyZone.value & (1 << layer)) != 0)
                 {
+                    OnInteractEvent?.Invoke();
                     Debug.Log("가능");
                 }
             }

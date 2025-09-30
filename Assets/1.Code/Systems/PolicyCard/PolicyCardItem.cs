@@ -4,6 +4,7 @@ using _1.Code.Defines;
 using _1.Code.Systems.UI;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 namespace _1.Code.Systems.PolicyCard
@@ -15,7 +16,11 @@ namespace _1.Code.Systems.PolicyCard
         [SerializeField] private TextMeshProUGUI descriptionText, deltaValueText, goldText;
 
         private IPolicyCard _card;
+        private bool _isEquip;
 
+        public UnityEvent<PolicyCardItem> OnBuyEvent;
+        public UnityEvent<PolicyCardInfo> OnUseEvent;
+        
         public void Start()
         {
             _card = GetComponentInParent<IPolicyCard>();
@@ -26,6 +31,7 @@ namespace _1.Code.Systems.PolicyCard
             cardImage.sprite = CardInfo.cardImage;
             transform.localScale = new Vector3(size, size, size);
             descriptionText.text = info.cardDescription;
+            _isEquip = false;
             string str = "";
             List<HUDDatas> l = info.datas; 
             foreach (HUDDatas data in l)
@@ -41,6 +47,18 @@ namespace _1.Code.Systems.PolicyCard
             deltaValueText.text = str;
             goldText.text = info.gold.ToString() + '$';
             return this;
+        }
+
+        public void HandleInteract()
+        {
+            if (_isEquip)
+            {
+                OnBuyEvent?.Invoke(this);
+            }
+            else
+            {
+                OnUseEvent?.Invoke(CardInfo);
+            }
         }
         
         public void Select()

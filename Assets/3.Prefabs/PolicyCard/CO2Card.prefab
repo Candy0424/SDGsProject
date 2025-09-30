@@ -143,8 +143,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0598121b0e44ae399d08c78f28795d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  whatIsBuyZone:
+    serializedVersion: 2
+    m_Bits: 64
   sizeUpValue: 1.2
   duration: 1.2
+  OnInteractEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: -2547540945626773667}
+        m_TargetAssemblyTypeName: _1.Code.Systems.PolicyCard.PolicyCardItem, Assembly-CSharp
+        m_MethodName: HandleInteract
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &9060022540401955391
 GameObject:
   m_ObjectHideFlags: 0
