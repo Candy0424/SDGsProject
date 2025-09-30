@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.UI;
@@ -21,11 +22,15 @@ namespace _1.Code.Managers
         private Dictionary<HUDTypes, List<CardInfoData>> _policyItems;
 
         [SerializeField] private PolicyCardInfo currentCardInfo;
+        [SerializeField] private Transform cardHolder;
+
+        private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
 
         private void Awake()
         {
             _policyCards = new Dictionary<HUDTypes, List<PolicyCardInfo>>();
             _policyItems = new Dictionary<HUDTypes, List<CardInfoData>>();
+            _recordCard = new Dictionary<PolicyCardInfo, Stack<PolicyCardItem>>();
 
             Initialize();
         }
@@ -39,7 +44,43 @@ namespace _1.Code.Managers
             }
         }
 
-        void AddCard(PolicyCardInfo info)
+        public void HandleBuyCard(PolicyCardItem item)
+        {
+            AddCard(item.CardInfo);
+
+            PolicyCardItem newItem;
+            if (_recordCard.ContainsKey(item.CardInfo) && _recordCard[item.CardInfo].Count > 0)
+            {
+                newItem = _recordCard[item.CardInfo].Pop();
+            }
+            else
+            {
+                newItem = Instantiate(item, cardHolder);
+            }
+
+            newItem.Initialize(item.CardInfo, 1, true);
+            newItem.gameObject.SetActive(true);
+            newItem.OnUseEvent += HandleUseCard;
+        }
+
+        private void HandleUseCard(PolicyCardItem item)
+        {
+            UsePolicyCard();
+            RecordCard(item);
+        }
+
+        private void RecordCard(PolicyCardItem item)
+        {
+            item.gameObject.SetActive(false);
+            if (!_recordCard.ContainsKey(item.CardInfo))
+            {
+                _recordCard.Add(item.CardInfo, new Stack<PolicyCardItem>());
+            }
+
+            _recordCard[item.CardInfo].Push(item);
+        }
+
+        private void AddCard(PolicyCardInfo info)
         {
             HUDTypes type = (HUDTypes)info.cardType;
             List<PolicyCardInfo> l = _policyCards[type];
@@ -83,7 +124,7 @@ namespace _1.Code.Managers
 
         public List<PolicyCardInfo> GetPolicyCard(HUDTypes type) => _policyCards.GetValueOrDefault(type);
 
-        public void UsePolicyCard()
+        private void UsePolicyCard()
         {
             foreach (var data in currentCardInfo.datas)
             {
@@ -94,7 +135,7 @@ namespace _1.Code.Managers
                 }
 
                 HUD type = hud.GetHUD(data.valueType);
-                type.HUDDeltaCalc(data.value);
+                type.GageCalc(data.value);
             }
 
             RemoveCard(currentCardInfo);

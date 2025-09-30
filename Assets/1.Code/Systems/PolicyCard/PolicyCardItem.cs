@@ -18,20 +18,21 @@ namespace _1.Code.Systems.PolicyCard
         private IPolicyCard _card;
         private bool _isEquip;
 
-        public UnityEvent<PolicyCardItem> OnBuyEvent;
-        public UnityEvent<PolicyCardInfo> OnUseEvent;
-        
+        public Action<PolicyCardItem> OnBuyEvent;
+        public Action<PolicyCardItem> OnUseEvent;
+
         public void Start()
         {
             _card = GetComponentInParent<IPolicyCard>();
         }
-        public PolicyCardItem Initialize(PolicyCardInfo info, float size)
+        public void Initialize(PolicyCardInfo info, float size, bool isEquip = false)
         {
+            EventClear();
             CardInfo = info;
             cardImage.sprite = CardInfo.cardImage;
             transform.localScale = new Vector3(size, size, size);
             descriptionText.text = info.cardDescription;
-            _isEquip = false;
+            _isEquip = isEquip;
             string str = "";
             List<HUDDatas> l = info.datas; 
             foreach (HUDDatas data in l)
@@ -46,18 +47,25 @@ namespace _1.Code.Systems.PolicyCard
             }
             deltaValueText.text = str;
             goldText.text = info.gold.ToString() + '$';
-            return this;
         }
+
+        private void EventClear()
+        {
+            OnBuyEvent = null;
+            OnUseEvent = null;
+        }
+
+        public void Equip() => _isEquip = true;
 
         public void HandleInteract()
         {
             if (_isEquip)
             {
-                OnBuyEvent?.Invoke(this);
+                OnUseEvent?.Invoke(this);
             }
             else
             {
-                OnUseEvent?.Invoke(CardInfo);
+                OnBuyEvent?.Invoke(this);
             }
         }
         

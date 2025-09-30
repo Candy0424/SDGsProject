@@ -12,6 +12,8 @@ namespace _1.Code.Systems.UI
         [SerializeField] private int currentGoldAmount;
         [SerializeField] private int maxGoldAmount;
 
+        public Action OnChangedValue;
+        
         public int CurrentGoldAmount
         {
             get => currentGoldAmount;
@@ -19,8 +21,11 @@ namespace _1.Code.Systems.UI
             {
                 int v = value;
                 if (v != currentGoldAmount)
+                {
+                    currentGoldAmount = v;
                     goldAmountText.text = "예산획득률 : " + v.ToString() + '%';
-                currentGoldAmount = v;
+                    OnChangedValue?.Invoke();
+                }
             }
         }
 

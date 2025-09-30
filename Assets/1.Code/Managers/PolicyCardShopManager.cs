@@ -2,13 +2,17 @@
 using System.Collections.Generic;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.Turn;
+using _1.Code.Systems.UI;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
 namespace _1.Code.Managers
 {
     public class PolicyCardShopManager : MonoBehaviour, ITurnAble
     {
+        [SerializeField] private GoldItem goldItem;
         [SerializeField] private PolicyCardInfo[] cardArr;
         [SerializeField] private int cardNum;
 
@@ -24,6 +28,8 @@ namespace _1.Code.Managers
             items = new List<PolicyCardItem>();
             _recordCard = new Dictionary<PolicyCardInfo, Stack<PolicyCardItem>>();
         }
+        
+        public UnityEvent<PolicyCardItem> OnBuyEvent;
 
         public void TurnInit()
         {
@@ -36,12 +42,7 @@ namespace _1.Code.Managers
             {
                 foreach (var item in items)
                 {
-                    item.gameObject.SetActive(false);
-                    if (!_recordCard.ContainsKey(item.CardInfo))
-                    {
-                        _recordCard.Add(item.CardInfo, new Stack<PolicyCardItem>());
-                    }
-                    _recordCard[item.CardInfo].Push(item);
+                    RecordCard(item);
                 }
                 items.Clear();
             }
@@ -57,21 +58,40 @@ namespace _1.Code.Managers
                     return;
                 }
 
+                PolicyCardItem item;
                 if (_recordCard.ContainsKey(cardArr[idx]) && _recordCard[cardArr[idx]].Count > 0)
                 {
-                    PolicyCardItem item = _recordCard[cardArr[idx]].Pop();
-                    item.Initialize(cardArr[idx], size);
-                    item.gameObject.SetActive(true);
-                    items.Add(item);
+                    item = _recordCard[cardArr[idx]].Pop();
                 }
                 else
                 {
-                    PolicyCardItem item = Instantiate(itemArr[itemIdx], transform);
-                    item.Initialize(cardArr[idx], size);
-                    item.gameObject.SetActive(true);
-                    items.Add(item);
-                }
+                    item = Instantiate(itemArr[itemIdx], transform);
+                } 
+                item.Initialize(cardArr[idx], size);
+                item.OnBuyEvent += BuyItem;
+                item.gameObject.SetActive(true);
+                items.Add(item);
             }
+        }
+
+        public void BuyItem(PolicyCardItem item)
+        {
+            if (goldItem.CanBuyGoldCheck(item.CardInfo))
+            {
+                RecordCard(item);
+                item.OnBuyEvent -= BuyItem;
+                OnBuyEvent?.Invoke(item);
+            }
+        }
+
+        private void RecordCard(PolicyCardItem item)
+        {
+            item.gameObject.SetActive(false);
+            if (!_recordCard.ContainsKey(item.CardInfo))
+            {
+                _recordCard.Add(item.CardInfo, new Stack<PolicyCardItem>());
+            }
+            _recordCard[item.CardInfo].Push(item);
         }
 
         public void TurnEnd()

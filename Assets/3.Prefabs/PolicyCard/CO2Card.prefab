@@ -131,6 +131,12 @@ MonoBehaviour:
   descriptionText: {fileID: 2356950262843143520}
   deltaValueText: {fileID: 6339999728960717683}
   goldText: {fileID: 8311040136335173076}
+  OnBuyEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnUseEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &-1803865730520471921
 MonoBehaviour:
   m_ObjectHideFlags: 0
