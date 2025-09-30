@@ -23,9 +23,10 @@ namespace _1.Code.Systems.UI
         [SerializeField] private float minMinusValue = 1f;
         [SerializeField] private float maxMinusValue = 10f;
         [SerializeField] protected float valueMultiplier = 1f;
-
         
         private Slider _hudGage;
+
+        private bool _isBad;
 
         public UnityEvent OnZeroEvent;
         
@@ -35,7 +36,16 @@ namespace _1.Code.Systems.UI
             set
             {
                 float v = Mathf.Clamp(value, minValue, maxValue);
-                DOVirtual.Float(_hudGage.value, v, duration, x => _hudGage.value = x).SetEase(Ease.OutSine);
+                DOVirtual.Float(_hudGage.value, v, duration, x => _hudGage.value = x)
+                    .SetEase(Ease.OutSine).OnComplete(() => IsZero());
+            }
+        }
+
+        private void IsZero()
+        {
+            if ((isNegative && _hudGage.value >= 100f) || (!isNegative && _hudGage.value <= 0) && !_isBad)
+            {
+                ZeroInvoke();
             }
         }
 
@@ -60,8 +70,6 @@ namespace _1.Code.Systems.UI
         
         public virtual void AfterInit()
         {
-            OnZeroEvent.AddListener(HandleZeroEvent);
-            
             _hudGage.maxValue = maxValue;
             _hudGage.minValue = minValue;
             _hudGage.value = isNegative ? .0f : maxValue;
@@ -69,18 +77,18 @@ namespace _1.Code.Systems.UI
 
         private void OnDestroy()
         {
-            OnZeroEvent.RemoveListener(HandleZeroEvent);
+            OnZeroEvent.RemoveAllListeners();
         }
 
         protected virtual void ZeroInvoke()
         {
+            _isBad = true;
             OnZeroEvent?.Invoke();
         }
-        
-        protected abstract void HandleZeroEvent();
             
         public void TurnInit()
         {
+            if (_isBad) return;
             float value = (Random.Range(minMinusValue, maxMinusValue)) * valueMultiplier;
             if (isNegative)
                 HUDValue += value;

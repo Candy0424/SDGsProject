@@ -1,4 +1,5 @@
 ﻿using System;
+using _1.Code.Managers;
 using _1.Code.Systems.Turn;
 using TMPro;
 using UnityEngine;
@@ -8,12 +9,11 @@ namespace _1.Code.Systems.UI
 {
     public class DateUI : MonoBehaviour, ITurnAble
     {
+        [SerializeField] private GameManager gameManager;
         [SerializeField] private TextMeshProUGUI dayText;
         
         [SerializeField] private int currentDay = 1;
-        [SerializeField] private int limitDay;
-
-        public UnityEvent OnClearEvent;
+        
         
         private void Start()
         {
@@ -24,8 +24,7 @@ namespace _1.Code.Systems.UI
         public void TurnInit()
         {
             UpdateText();
-            if (currentDay >= limitDay)
-                OnClearEvent?.Invoke();
+            gameManager.GameClearCheck(currentDay);
         }
 
         private void UpdateText()
