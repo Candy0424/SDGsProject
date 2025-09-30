@@ -75,7 +75,7 @@ namespace _1.Code.Systems.PolicyCard
             }
         }
 
-        public void BuyItem(PolicyCardItem item)
+        private void BuyItem(PolicyCardItem item)
         {
             if (policyCardManager.IsInRange() && goldItem.CanBuyGoldCheck(item.CardInfo))
             {

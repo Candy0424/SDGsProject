@@ -754,8 +754,8 @@ MonoBehaviour:
   minValue: 0
   duration: 0.5
   isNegative: 0
-  minMinusValue: 1
-  maxMinusValue: 10
+  minMinusValue: 5
+  maxMinusValue: 15
   valueMultiplier: 1
   OnZeroEvent:
     m_PersistentCalls:
@@ -944,8 +944,8 @@ MonoBehaviour:
   minValue: 0
   duration: 0.5
   isNegative: 0
-  minMinusValue: 1
-  maxMinusValue: 10
+  minMinusValue: 5
+  maxMinusValue: 15
   valueMultiplier: 1
   OnZeroEvent:
     m_PersistentCalls:

@@ -21,6 +21,6 @@ MonoBehaviour:
   gold: 150000
   datas:
   - valueType: 3
-    value: 4
+    value: 5
   - valueType: 5
-    value: -3
+    value: -4

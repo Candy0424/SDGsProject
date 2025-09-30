@@ -23,6 +23,6 @@ MonoBehaviour:
   - valueType: 1
     value: -8
   - valueType: 4
-    value: 1
+    value: 2
   - valueType: 5
-    value: 3
+    value: 5

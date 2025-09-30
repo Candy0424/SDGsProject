@@ -43,24 +43,28 @@ namespace _1.Code.Systems.UI
             _raycaster = _rootCanvas.GetComponent<GraphicRaycaster>();
             _selectItem = GetComponent<ISelectAble>();
             _originParent = transform.parent;
+            _originSize = transform.localScale;
             _originIndex = transform.GetSiblingIndex();
         }
 
         public void OnEnable()
         {
-            _originSize = transform.localScale;
+            _tween.Kill();
         }
 
         private void OnDisable()
         {
+            _tween.Kill();
             transform.localScale = _originSize;
         }
 
         public void OnPointerEnter(PointerEventData eventData)
         {
             //Debug.Log("<color=yellow>선택 가능</color>");
-            _tween = transform.DOScale(new Vector3(sizeUpValue, sizeUpValue, sizeUpValue)
-                , duration).SetEase(Ease.OutElastic);
+            if (_tween.IsActive()) _tween.Kill();
+            transform.localScale = _originSize;
+            _tween = transform.DOScale
+                (_originSize * sizeUpValue, duration).SetEase(Ease.OutElastic);
         }
 
         public void OnPointerDown(PointerEventData eventData)
@@ -106,10 +110,9 @@ namespace _1.Code.Systems.UI
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            if (_isSelect)
-            {
-                _isSelect = false;
-            }
+            if (_isSelect) return;
+            if (_tween.IsActive()) _tween.Kill();
+            transform.localScale = _originSize * sizeUpValue;
             _tween = transform.DOScale(_originSize, duration).SetEase(Ease.OutElastic);
         }
     }
