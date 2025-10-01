@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 167c0d7a8cd0d254a9d6b2e0d71b626f
+guid: 5aaaa1b0fcdb04544b9bde153fdd830e
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -125,10 +125,10 @@ TextureImporter:
       name: Earth_transparent_1280x853 (1)_3
       rect:
         serializedVersion: 2
-        x: 278
-        y: 65
-        width: 723
-        height: 716
+        x: 267
+        y: 64
+        width: 741
+        height: 722
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,7 +147,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: dd794e4b8cf4bae42a203e2905b6dda9
+    spriteID: 6b9690e66e4afda43aae7b53514425b9
     internalID: 0
     vertices: []
     indices: 
@@ -157,11 +157,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Earth_transparent_1280x853 (1)_0: -4073069538331880858
       Earth_transparent_1280x853 (1)_1: 6407554142796191039
       Earth_transparent_1280x853 (1)_2: -294443260460430801
       Earth_transparent_1280x853 (1)_3: -92092526206722100
-      GoodEarth_0: -245720771
+      GoodEarth: -4073069538331880858
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
