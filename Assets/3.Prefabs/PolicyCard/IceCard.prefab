@@ -224,6 +224,10 @@ MonoBehaviour:
     m_Bits: 64
   sizeUpValue: 1.2
   duration: 1.2
+  selectedSound:
+    ID: 1073741842
+    _sourceAsset: {fileID: 11400000, guid: 84b51ce886382fd4e9222f0d223b5d27, type: 2}
+    <DebugObject>k__BackingField: {fileID: 8508851988819811040}
   OnInteractEvent:
     m_PersistentCalls:
       m_Calls:

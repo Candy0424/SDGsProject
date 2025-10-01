@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -6501865563440637843, guid: 1a1448cea50f459468ad73ea149728eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -148,6 +148,10 @@ MonoBehaviour:
     m_Bits: 64
   sizeUpValue: 1.2
   duration: 1.2
+  selectedSound:
+    ID: 1073741842
+    _sourceAsset: {fileID: 11400000, guid: 84b51ce886382fd4e9222f0d223b5d27, type: 2}
+    <DebugObject>k__BackingField: {fileID: 8949883556728467711}
   OnInteractEvent:
     m_PersistentCalls:
       m_Calls:
@@ -247,9 +251,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6183100744588873872}
     m_Modifications:
+    - target: {fileID: 306908154943360872, guid: c9d32984263524b4fa58aac468543c63, type: 3}
+      propertyPath: m_text
+      value: 450000$
+      objectReference: {fileID: 0}
     - target: {fileID: 2371375579591256527, guid: c9d32984263524b4fa58aac468543c63, type: 3}
       propertyPath: m_text
-      value: "\uC5BC\uC74C   \uD0C4\uC18C\n+2\t+2\n+2   +2"
+      value: "\uD0C4\uC18C   \uC608\uC0B0\n-6   8"
       objectReference: {fileID: 0}
     - target: {fileID: 6170610476225400173, guid: c9d32984263524b4fa58aac468543c63, type: 3}
       propertyPath: m_Name
@@ -258,6 +266,12 @@ PrefabInstance:
     - target: {fileID: 6170610476225400173, guid: c9d32984263524b4fa58aac468543c63, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6314456150634078172, guid: c9d32984263524b4fa58aac468543c63, type: 3}
+      propertyPath: m_text
+      value: "\uD0C4\uC18C\uC138\uB97C \uBD80\uACFC\uC2DC\uCF1C \uACE0\uD0C4\uC18C
+        \uD65C\uB3D9\uC744 \uC5B5\uC81C\uC2DC\uD0A4\uACE0 \uC138\uAE08 \uC815\uCC45\uC73C\uB85C
+        \uC548\uC804\uD55C \uC608\uC0B0\uC744 \uD655\uBCF4\uD569\uB2C8\uB2E4."
       objectReference: {fileID: 0}
     - target: {fileID: 8933754518875697609, guid: c9d32984263524b4fa58aac468543c63, type: 3}
       propertyPath: m_Pivot.x

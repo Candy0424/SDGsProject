@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using _1.Code.Managers;
 using _1.Code.Systems.Turn;
 using _1.Code.Systems.UI;
+using Ami.BroAudio;
 using UnityEngine;
 using UnityEngine.Events;
 using Random = UnityEngine.Random;
@@ -21,6 +22,8 @@ namespace _1.Code.Systems.PolicyCard
         [SerializeField] private float size;
         
         [SerializeField] private List<PolicyCardItem> items;
+
+        [SerializeField] private SoundID buySound;
         
         private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
 
@@ -79,6 +82,7 @@ namespace _1.Code.Systems.PolicyCard
         {
             if (policyCardManager.IsInRange() && goldItem.CanBuyGoldCheck(item.CardInfo))
             {
+                buySound.Play();
                 int price = item.CardInfo.gold;
                 goldItem.GoldCalc(-price);
                 RecordCard(item);

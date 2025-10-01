@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Ami.BroAudio;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -16,6 +17,7 @@ namespace _1.Code.Systems.UI
         [SerializeField] private LayerMask whatIsBuyZone;
         [SerializeField] private float sizeUpValue;
         [SerializeField] private float duration;
+        [SerializeField] private SoundID selectedSound;
         
         private Canvas _rootCanvas;
         private GraphicRaycaster _raycaster;
@@ -60,6 +62,7 @@ namespace _1.Code.Systems.UI
 
         public void OnPointerEnter(PointerEventData eventData)
         {
+            selectedSound.Play();
             //Debug.Log("<color=yellow>선택 가능</color>");
             if (_tween.IsActive()) _tween.Kill();
             transform.localScale = _originSize;

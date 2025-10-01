@@ -33,15 +33,5 @@ namespace _1.Code.Managers
             if (currentDay > limitDay)
                 OnGameClearEvent?.Invoke();
         }
-
-        public void HandleGameOver()
-        {
-            Debug.Log("Game Over");
-        }
-
-        public void HandleGameClear()
-        {
-            Debug.Log("Game Clear");
-        }
     }
 }

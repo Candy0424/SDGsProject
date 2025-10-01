@@ -2,6 +2,7 @@
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.Turn;
+using Ami.BroAudio;
 using TMPro;
 using UnityEngine;
 
@@ -14,6 +15,7 @@ namespace _1.Code.Systems.UI
         [SerializeField] private int currentGold;
         [SerializeField] private int maxGold;
         [SerializeField] private int getGoldValue;
+        [SerializeField] private SoundID getGoldSound;
         
         private GoldAmount _goldAmount;
 
@@ -36,13 +38,14 @@ namespace _1.Code.Systems.UI
 
         private void GetGold()
         {
+            getGoldSound.Play();
             GoldCalc(GetCalcGold());
         }
         
         private int GetCalcGold() => Mathf.CeilToInt((_goldAmount.CurrentGoldAmount / 100f) * getGoldValue);
 
         public void GoldCalc(int gold)
-        { 
+        {
             currentGold += gold;
             UpdateGold();
         }
