@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using _1.Code.Defines;
 using _1.Code.Systems.PolicyCard;
 using _1.Code.Systems.UI;
+using Ami.BroAudio;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -27,6 +28,8 @@ namespace _1.Code.Managers
 
         [SerializeField] private int maxCardNum;
         private int _currentCardNum;
+
+        [SerializeField] private SoundID useSound;
         
         private Dictionary<PolicyCardInfo, Stack<PolicyCardItem>> _recordCard;
         
@@ -134,6 +137,7 @@ namespace _1.Code.Managers
         private void UsePolicyCard()
         {
             _currentCardNum--;
+            useSound.Play();
             foreach (var data in currentCardInfo.datas)
             {
                 if (data.valueType == HUDTypes.Gold)

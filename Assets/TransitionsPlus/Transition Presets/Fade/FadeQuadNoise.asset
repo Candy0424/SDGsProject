@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 3
   invert: 0
   timeMultiplier: 1
-  colorMode: 0
+  colorMode: 2
   color: {r: 0, g: 0, b: 0, a: 1}
   gradient:
     serializedVersion: 2
@@ -64,7 +64,7 @@ MonoBehaviour:
   keepAspectRatio: 0
   seed: 0
   centersCount: 16
-  texture: {fileID: 0}
+  texture: {fileID: 2800000, guid: f51cee186ce06b24297d4334b48dc638, type: 3}
   cellDivisions: 1
   spread: 64
   noiseScale: {x: 1, y: 1}

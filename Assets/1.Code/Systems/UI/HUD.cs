@@ -35,6 +35,7 @@ namespace _1.Code.Systems.UI
             get => _hudGage.value;
             set
             {
+                if (_isBad) return;
                 float v = Mathf.Clamp(value, minValue, maxValue);
                 DOVirtual.Float(_hudGage.value, v, duration, x => _hudGage.value = x)
                     .SetEase(Ease.OutSine).OnComplete(() => IsZero());
@@ -64,7 +65,6 @@ namespace _1.Code.Systems.UI
         public void Initialize()
         {
             _hudGage = GetComponent<Slider>();
-            Debug.Assert(_hudGage != null, $"This GameObject have not Slider Component!");
             AfterInit();
         }
         
